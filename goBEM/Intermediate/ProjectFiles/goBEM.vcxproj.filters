@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\goBEM.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C550D9AA-0B31-4F2D-8016-49F1ABF1500C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\goBEM.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\goBEMEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{06514504-E008-486D-82F4-400F993DE6D3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\goBEM">
+      <UniqueIdentifier>{33D7FC57-EF9E-498B-9398-58959C29214C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\goBEM\goBEM.Build.cs">
+      <Filter>Source\goBEM</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\goBEM\goBEM.cpp">
+      <Filter>Source\goBEM</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\goBEM\goBEM.h">
+      <Filter>Source\goBEM</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\goBEM\goBEMCharacter.cpp">
+      <Filter>Source\goBEM</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\goBEM\goBEMCharacter.h">
+      <Filter>Source\goBEM</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\goBEM\goBEMGameMode.cpp">
+      <Filter>Source\goBEM</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\goBEM\goBEMGameMode.h">
+      <Filter>Source\goBEM</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

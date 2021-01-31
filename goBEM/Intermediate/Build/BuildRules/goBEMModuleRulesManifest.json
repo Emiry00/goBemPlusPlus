@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Projects\\Unreal\\goBemPlusPlus\\goBEM\\Source\\goBEM\\goBEM.Build.cs",
+		"C:\\Projects\\Unreal\\goBemPlusPlus\\goBEM\\Source\\goBEM.Target.cs",
+		"C:\\Projects\\Unreal\\goBemPlusPlus\\goBEM\\Source\\goBEMEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.0"
+}
