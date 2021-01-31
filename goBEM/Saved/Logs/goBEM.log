@@ -848,3 +848,1342 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.31-17.56.00:615][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.01.31-17.56.00:616][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
 [2021.01.31-17.56.00:650][657]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.01.31-18.00.30:055][719]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.01.31-18.00.46:578][587]LogSlate: Took 0.000518 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.31-18.05.10:754][866]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\emir-\OneDrive\Desktop\Abstract Platformer (370 assets)\PNG\Players\Player Green\playerGreen_walk5.png)
+[2021.01.31-18.05.10:757][866]LogTexture: Display: Building textures: playerGreen_walk5 (BGRA8, 64X39)
+[2021.01.31-18.05.10:763][866]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\emir-\OneDrive\Desktop\Abstract Platformer (370 assets)\PNG\Players\Player Green\playerGreen_dead.png)
+[2021.01.31-18.05.10:764][866]LogTexture: Display: Building textures: playerGreen_dead (BGRA8, 38X43)
+[2021.01.31-18.05.10:769][866]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\emir-\OneDrive\Desktop\Abstract Platformer (370 assets)\PNG\Players\Player Green\playerGreen_duck.png)
+[2021.01.31-18.05.10:770][866]LogTexture: Display: Building textures: playerGreen_duck (BGRA8, 56X31)
+[2021.01.31-18.05.10:776][866]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\emir-\OneDrive\Desktop\Abstract Platformer (370 assets)\PNG\Players\Player Green\playerGreen_fall.png)
+[2021.01.31-18.05.10:777][866]LogTexture: Display: Building textures: playerGreen_fall (BGRA8, 38X49)
+[2021.01.31-18.05.10:783][866]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\emir-\OneDrive\Desktop\Abstract Platformer (370 assets)\PNG\Players\Player Green\playerGreen_hit.png)
+[2021.01.31-18.05.10:784][866]LogTexture: Display: Building textures: playerGreen_hit (BGRA8, 46X40)
+[2021.01.31-18.05.10:789][866]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\emir-\OneDrive\Desktop\Abstract Platformer (370 assets)\PNG\Players\Player Green\playerGreen_roll.png)
+[2021.01.31-18.05.10:790][866]LogTexture: Display: Building textures: playerGreen_roll (AutoDXT, 40X40)
+[2021.01.31-18.05.10:798][866]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\emir-\OneDrive\Desktop\Abstract Platformer (370 assets)\PNG\Players\Player Green\playerGreen_stand.png)
+[2021.01.31-18.05.10:799][866]LogTexture: Display: Building textures: playerGreen_stand (BGRA8, 38X50)
+[2021.01.31-18.05.10:804][866]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\emir-\OneDrive\Desktop\Abstract Platformer (370 assets)\PNG\Players\Player Green\playerGreen_swim1.png)
+[2021.01.31-18.05.10:805][866]LogTexture: Display: Building textures: playerGreen_swim1 (BGRA8, 40X53)
+[2021.01.31-18.05.10:811][866]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\emir-\OneDrive\Desktop\Abstract Platformer (370 assets)\PNG\Players\Player Green\playerGreen_swim2.png)
+[2021.01.31-18.05.10:812][866]LogTexture: Display: Building textures: playerGreen_swim2 (BGRA8, 41X54)
+[2021.01.31-18.05.10:817][866]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\emir-\OneDrive\Desktop\Abstract Platformer (370 assets)\PNG\Players\Player Green\playerGreen_switch1.png)
+[2021.01.31-18.05.10:818][866]LogTexture: Display: Building textures: playerGreen_switch1 (BGRA8, 51X50)
+[2021.01.31-18.05.10:823][866]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\emir-\OneDrive\Desktop\Abstract Platformer (370 assets)\PNG\Players\Player Green\playerGreen_switch2.png)
+[2021.01.31-18.05.10:824][866]LogTexture: Display: Building textures: playerGreen_switch2 (BGRA8, 50X50)
+[2021.01.31-18.05.10:828][866]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\emir-\OneDrive\Desktop\Abstract Platformer (370 assets)\PNG\Players\Player Green\playerGreen_up1.png)
+[2021.01.31-18.05.10:829][866]LogTexture: Display: Building textures: playerGreen_up1 (BGRA8, 38X50)
+[2021.01.31-18.05.10:835][866]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\emir-\OneDrive\Desktop\Abstract Platformer (370 assets)\PNG\Players\Player Green\playerGreen_up2.png)
+[2021.01.31-18.05.10:836][866]LogTexture: Display: Building textures: playerGreen_up2 (BGRA8, 38X43)
+[2021.01.31-18.05.10:842][866]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\emir-\OneDrive\Desktop\Abstract Platformer (370 assets)\PNG\Players\Player Green\playerGreen_up3.png)
+[2021.01.31-18.05.10:844][866]LogTexture: Display: Building textures: playerGreen_up3 (BGRA8, 40X39)
+[2021.01.31-18.05.10:849][866]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\emir-\OneDrive\Desktop\Abstract Platformer (370 assets)\PNG\Players\Player Green\playerGreen_walk1.png)
+[2021.01.31-18.05.10:850][866]LogTexture: Display: Building textures: playerGreen_walk1 (BGRA8, 38X50)
+[2021.01.31-18.05.10:855][866]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\emir-\OneDrive\Desktop\Abstract Platformer (370 assets)\PNG\Players\Player Green\playerGreen_walk2.png)
+[2021.01.31-18.05.10:856][866]LogTexture: Display: Building textures: playerGreen_walk2 (BGRA8, 38X48)
+[2021.01.31-18.05.10:864][866]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\emir-\OneDrive\Desktop\Abstract Platformer (370 assets)\PNG\Players\Player Green\playerGreen_walk3.png)
+[2021.01.31-18.05.10:865][866]LogTexture: Display: Building textures: playerGreen_walk3 (BGRA8, 38X48)
+[2021.01.31-18.05.10:870][866]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\emir-\OneDrive\Desktop\Abstract Platformer (370 assets)\PNG\Players\Player Green\playerGreen_walk4.png)
+[2021.01.31-18.05.10:871][866]LogTexture: Display: Building textures: playerGreen_walk4 (BGRA8, 48X43)
+[2021.01.31-18.05.22:235][866]LogTexture: Display: Building textures: playerGreen_roll (BGRA8, 40X40)
+[2021.01.31-18.05.30:231][623]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Assets/Character/playerGreen_walk5_Sprite.playerGreen_walk5_Sprite
+[2021.01.31-18.05.30:371][623]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.31-18.05.30:458][623]LogRenderer: Reallocating scene render targets to support 1524x876 Format 10 NumSamples 1 (Frame:1).
+[2021.01.31-18.05.41:472][440]LogSlate: Window 'playerGreen_walk5_Sprite' being destroyed
+[2021.01.31-18.05.41:493][440]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-18.05.41:493][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.06.22:727][467]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Character/playerGreen_walk5.playerGreen_walk5
+[2021.01.31-18.06.22:735][467]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.01.31-18.06.24:780][599]LogSlate: Window 'playerGreen_walk5' being destroyed
+[2021.01.31-18.06.24:788][599]LogSlate: Window 'playerGreen_walk5' being destroyed
+[2021.01.31-18.06.31:333][197]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2021.01.31-18.06.34:578][529]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Assets/Character/playerGreen_walk.playerGreen_walk
+[2021.01.31-18.07.40:267][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Character/playerGreen_walk" FILE="../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/playerGreen_walk.uasset" SILENT=true
+[2021.01.31-18.07.40:282][345]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_walk0C6B2A284780A8BFF55AA8BC02ADE1B7.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/playerGreen_walk.uasset'
+[2021.01.31-18.07.40:294][345]AssetCheck: New page: Asset Save: playerGreen_walk
+[2021.01.31-18.07.40:294][345]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Character/playerGreen_walk.playerGreen_walk
+[2021.01.31-18.07.42:090][478]LogSlate: Window 'playerGreen_walk' being destroyed
+[2021.01.31-18.07.42:105][478]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-18.07.42:105][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.07.52:703][562]LogEditorViewport: Clicking on Actor (LMB): BP_2DSideScrollerCharacter_C (TP_2DSideScrollerCharacter)
+[2021.01.31-18.08.13:237][242]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-18.08.13:261][242]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-18.08.13:261][242]PIE: New page: PIE session: 2DSideScrollerExampleMap (31.01.2021, 20:08:13)
+[2021.01.31-18.08.13:261][242]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.31-18.08.13:264][242]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002754s)
+[2021.01.31-18.08.13:265][242]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.01.31-18.08.13:274][242]LogPlayLevel: PIE: World Init took: (0.010009s)
+[2021.01.31-18.08.13:274][242]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.012897s)
+[2021.01.31-18.08.13:281][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.01.31-18.08.13:281][242]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.01.31-18.08.13:282][242]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-18.08.13:282][242]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-18.08.13:282][242]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-18.08.13:282][242]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-18.08.13:282][242]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-18.08.13:282][242]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-18.08.13:282][242]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-18.08.13:282][242]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-18.08.13:282][242]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-18.08.13:282][242]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-18.08.13:285][242]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-18.08.13:285][242]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-18.08.13:298][242]LogAudioMixer: Display: Using Audio Device Kopfhörer (Realtek(R) Audio)
+[2021.01.31-18.08.13:299][242]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-18.08.13:299][242]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-18.08.13:299][242]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-18.08.13:299][242]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-18.08.13:299][242]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-18.08.13:299][242]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-18.08.13:314][242]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-18.08.13:314][242]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-18.08.13:314][242]LogInit: FAudioDevice initialized.
+[2021.01.31-18.08.13:314][242]LogAudio: Display: Audio Device (ID: 3) registered with world '2DSideScrollerExampleMap'.
+[2021.01.31-18.08.13:322][242]LogLoad: Game class is 'goBEMGameMode'
+[2021.01.31-18.08.13:323][242]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.01.31-19.08.13
+[2021.01.31-18.08.13:323][242]LogWorld: Bringing up level for play took: 0.000643
+[2021.01.31-18.08.13:324][242]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.01.31-18.08.13:325][242]PIE: Server logged in
+[2021.01.31-18.08.13:326][242]PIE: Play in editor total start time 0,067 seconds.
+[2021.01.31-18.08.16:382][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.08.16:382][598]LogWorld: BeginTearingDown for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.31-18.08.16:382][598]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-18.08.16:382][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.08.16:390][598]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-18.08.16:452][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.08.16:456][598]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-18.08.16:456][598]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-18.08.16:457][598]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-18.08.16:473][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.08.16:475][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.01.31-18.08.16:516][599]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.01.31-18.08.20:966][959]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.01.31-18.08.23:536][226]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-18.08.23:554][226]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-18.08.23:555][226]PIE: New page: PIE session: 2DSideScrollerExampleMap (31.01.2021, 20:08:23)
+[2021.01.31-18.08.23:555][226]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.31-18.08.23:558][226]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002838s)
+[2021.01.31-18.08.23:558][226]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.01.31-18.08.23:559][226]LogPlayLevel: PIE: World Init took: (0.001082s)
+[2021.01.31-18.08.23:559][226]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004063s)
+[2021.01.31-18.08.23:565][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.01.31-18.08.23:566][226]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.01.31-18.08.23:566][226]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-18.08.23:566][226]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-18.08.23:566][226]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-18.08.23:566][226]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-18.08.23:566][226]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-18.08.23:566][226]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-18.08.23:566][226]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-18.08.23:566][226]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-18.08.23:567][226]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-18.08.23:567][226]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-18.08.23:571][226]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-18.08.23:571][226]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-18.08.23:589][226]LogAudioMixer: Display: Using Audio Device Kopfhörer (Realtek(R) Audio)
+[2021.01.31-18.08.23:590][226]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-18.08.23:590][226]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-18.08.23:590][226]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-18.08.23:590][226]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-18.08.23:590][226]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-18.08.23:590][226]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-18.08.23:603][226]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-18.08.23:603][226]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-18.08.23:603][226]LogInit: FAudioDevice initialized.
+[2021.01.31-18.08.23:603][226]LogAudio: Display: Audio Device (ID: 4) registered with world '2DSideScrollerExampleMap'.
+[2021.01.31-18.08.23:609][226]LogLoad: Game class is 'goBEMGameMode'
+[2021.01.31-18.08.23:611][226]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.01.31-19.08.23
+[2021.01.31-18.08.23:612][226]LogWorld: Bringing up level for play took: 0.001312
+[2021.01.31-18.08.23:612][226]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.01.31-18.08.23:614][226]PIE: Server logged in
+[2021.01.31-18.08.23:615][226]PIE: Play in editor total start time 0,062 seconds.
+[2021.01.31-18.08.24:393][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.08.24:393][310]LogWorld: BeginTearingDown for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.31-18.08.24:393][310]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-18.08.24:393][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.08.24:401][310]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-18.08.24:414][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.08.24:418][310]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-18.08.24:418][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-18.08.24:420][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-18.08.24:437][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.08.24:438][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.01.31-18.08.24:470][311]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.01.31-18.08.28:320][712]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.01.31-18.08.28:843][772]LogEditorViewport: Clicking on Actor (LMB): BP_2DSideScrollerCharacter_C (TP_2DSideScrollerCharacter)
+[2021.01.31-18.09.26:700][ 70]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-18.09.26:717][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-18.09.26:717][ 70]PIE: New page: PIE session: 2DSideScrollerExampleMap (31.01.2021, 20:09:26)
+[2021.01.31-18.09.26:717][ 70]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.31-18.09.26:721][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003665s)
+[2021.01.31-18.09.26:721][ 70]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.01.31-18.09.26:722][ 70]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2021.01.31-18.09.26:722][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004819s)
+[2021.01.31-18.09.26:726][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.01.31-18.09.26:728][ 70]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.01.31-18.09.26:728][ 70]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-18.09.26:728][ 70]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-18.09.26:728][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-18.09.26:728][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-18.09.26:728][ 70]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-18.09.26:728][ 70]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-18.09.26:728][ 70]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-18.09.26:728][ 70]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-18.09.26:728][ 70]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-18.09.26:728][ 70]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-18.09.26:731][ 70]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-18.09.26:731][ 70]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-18.09.26:747][ 70]LogAudioMixer: Display: Using Audio Device Kopfhörer (Realtek(R) Audio)
+[2021.01.31-18.09.26:747][ 70]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-18.09.26:747][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-18.09.26:747][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-18.09.26:747][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-18.09.26:747][ 70]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-18.09.26:747][ 70]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-18.09.26:760][ 70]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-18.09.26:760][ 70]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-18.09.26:760][ 70]LogInit: FAudioDevice initialized.
+[2021.01.31-18.09.26:760][ 70]LogAudio: Display: Audio Device (ID: 5) registered with world '2DSideScrollerExampleMap'.
+[2021.01.31-18.09.26:767][ 70]LogLoad: Game class is 'goBEMGameMode'
+[2021.01.31-18.09.26:768][ 70]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.01.31-19.09.26
+[2021.01.31-18.09.26:768][ 70]LogWorld: Bringing up level for play took: 0.000733
+[2021.01.31-18.09.26:768][ 70]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.01.31-18.09.26:770][ 70]PIE: Server logged in
+[2021.01.31-18.09.26:771][ 70]PIE: Play in editor total start time 0,057 seconds.
+[2021.01.31-18.09.28:634][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.09.28:634][284]LogWorld: BeginTearingDown for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.31-18.09.28:634][284]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-18.09.28:634][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.09.28:638][284]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-18.09.28:696][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.09.28:700][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.09.28:700][284]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-18.09.28:701][284]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-18.09.28:720][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.01.31-18.09.28:756][285]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.01.31-18.09.29:981][392]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter.BP_2DSideScrollerCharacter
+[2021.01.31-18.09.30:144][392]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 126 classes and 0 folders.
+[2021.01.31-18.09.40:666][945]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/BP_2DSideScrollerCharacter13305C2A40B512877FF9FDB48CD09CDB.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter.uasset'
+[2021.01.31-18.09.40:689][945]AssetCheck: New page: Asset Save: BP_2DSideScrollerCharacter
+[2021.01.31-18.09.40:689][945]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter.BP_2DSideScrollerCharacter
+[2021.01.31-18.09.41:459][989]LogSlate: Window 'BP_2DSideScrollerCharacter' being destroyed
+[2021.01.31-18.09.41:482][989]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-18.09.41:482][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.09.43:486][163]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-18.09.43:500][163]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-18.09.43:500][163]PIE: New page: PIE session: 2DSideScrollerExampleMap (31.01.2021, 20:09:43)
+[2021.01.31-18.09.43:500][163]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.31-18.09.43:503][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003016s)
+[2021.01.31-18.09.43:504][163]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.01.31-18.09.43:505][163]LogPlayLevel: PIE: World Init took: (0.001155s)
+[2021.01.31-18.09.43:505][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004327s)
+[2021.01.31-18.09.43:524][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.01.31-18.09.43:525][163]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.01.31-18.09.43:525][163]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-18.09.43:525][163]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-18.09.43:525][163]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-18.09.43:525][163]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-18.09.43:525][163]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-18.09.43:525][163]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-18.09.43:525][163]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-18.09.43:525][163]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-18.09.43:526][163]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-18.09.43:526][163]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-18.09.43:528][163]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-18.09.43:528][163]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-18.09.43:543][163]LogAudioMixer: Display: Using Audio Device Kopfhörer (Realtek(R) Audio)
+[2021.01.31-18.09.43:543][163]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-18.09.43:543][163]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-18.09.43:543][163]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-18.09.43:543][163]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-18.09.43:544][163]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-18.09.43:544][163]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-18.09.43:557][163]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-18.09.43:557][163]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-18.09.43:557][163]LogInit: FAudioDevice initialized.
+[2021.01.31-18.09.43:557][163]LogAudio: Display: Audio Device (ID: 6) registered with world '2DSideScrollerExampleMap'.
+[2021.01.31-18.09.43:564][163]LogLoad: Game class is 'goBEMGameMode'
+[2021.01.31-18.09.43:565][163]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.01.31-19.09.43
+[2021.01.31-18.09.43:565][163]LogWorld: Bringing up level for play took: 0.000662
+[2021.01.31-18.09.43:565][163]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.01.31-18.09.43:566][163]PIE: Server logged in
+[2021.01.31-18.09.43:567][163]PIE: Play in editor total start time 0,069 seconds.
+[2021.01.31-18.09.45:013][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.09.45:013][326]LogWorld: BeginTearingDown for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.31-18.09.45:013][326]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-18.09.45:014][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.09.45:018][326]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-18.09.45:072][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.09.45:084][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.09.45:085][326]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-18.09.45:086][326]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-18.09.45:103][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.01.31-18.09.45:138][327]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.01.31-18.09.45:973][392]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter.BP_2DSideScrollerCharacter
+[2021.01.31-18.09.54:404][829]LogSlate: Window 'BP_2DSideScrollerCharacter' being destroyed
+[2021.01.31-18.09.54:421][829]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-18.09.54:422][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.09.54:489][829]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter.BP_2DSideScrollerCharacter
+[2021.01.31-18.10.08:120][547]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/BP_2DSideScrollerCharacterFF3F137B44A6CA62904409BEB4FEAF20.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter.uasset'
+[2021.01.31-18.10.08:132][547]AssetCheck: New page: Asset Save: BP_2DSideScrollerCharacter
+[2021.01.31-18.10.08:132][547]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter.BP_2DSideScrollerCharacter
+[2021.01.31-18.10.10:322][674]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-18.10.10:348][674]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-18.10.10:348][674]PIE: New page: PIE session: 2DSideScrollerExampleMap (31.01.2021, 20:10:10)
+[2021.01.31-18.10.10:348][674]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.31-18.10.10:351][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002636s)
+[2021.01.31-18.10.10:352][674]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.01.31-18.10.10:352][674]LogPlayLevel: PIE: World Init took: (0.001469s)
+[2021.01.31-18.10.10:352][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004217s)
+[2021.01.31-18.10.10:373][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.01.31-18.10.10:376][674]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.01.31-18.10.10:376][674]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-18.10.10:376][674]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-18.10.10:376][674]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-18.10.10:376][674]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-18.10.10:376][674]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-18.10.10:376][674]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-18.10.10:376][674]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-18.10.10:376][674]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-18.10.10:377][674]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-18.10.10:377][674]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-18.10.10:379][674]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-18.10.10:379][674]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-18.10.10:392][674]LogAudioMixer: Display: Using Audio Device Kopfhörer (Realtek(R) Audio)
+[2021.01.31-18.10.10:393][674]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-18.10.10:393][674]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-18.10.10:393][674]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-18.10.10:393][674]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-18.10.10:393][674]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-18.10.10:393][674]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-18.10.10:406][674]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-18.10.10:406][674]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-18.10.10:406][674]LogInit: FAudioDevice initialized.
+[2021.01.31-18.10.10:406][674]LogAudio: Display: Audio Device (ID: 7) registered with world '2DSideScrollerExampleMap'.
+[2021.01.31-18.10.10:421][674]LogLoad: Game class is 'goBEMGameMode'
+[2021.01.31-18.10.10:422][674]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.01.31-19.10.10
+[2021.01.31-18.10.10:422][674]LogWorld: Bringing up level for play took: 0.001047
+[2021.01.31-18.10.10:422][674]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.01.31-18.10.10:424][674]PIE: Server logged in
+[2021.01.31-18.10.10:425][674]PIE: Play in editor total start time 0,09 seconds.
+[2021.01.31-18.10.14:790][  3]LogSlate: Window 'BP_2DSideScrollerCharacter' being destroyed
+[2021.01.31-18.10.14:818][  3]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-18.10.14:818][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.10.26:363][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.10.26:363][323]LogWorld: BeginTearingDown for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.31-18.10.26:363][323]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-18.10.26:364][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.10.26:378][323]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-18.10.26:434][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.10.26:448][323]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-18.10.26:448][323]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-18.10.26:449][323]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-18.10.26:464][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.10.26:468][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.01.31-18.10.26:516][324]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.01.31-18.10.28:155][461]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter.BP_2DSideScrollerCharacter
+[2021.01.31-18.10.44:409][299]LogSlate: Took 0.016097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.31-18.11.37:284][158]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/BP_2DSideScrollerCharacterED65927943A73F05383901938A36A106.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter.uasset'
+[2021.01.31-18.11.37:296][158]AssetCheck: New page: Asset Save: BP_2DSideScrollerCharacter
+[2021.01.31-18.11.37:296][158]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter.BP_2DSideScrollerCharacter
+[2021.01.31-18.11.38:416][223]LogSlate: Window 'BP_2DSideScrollerCharacter' being destroyed
+[2021.01.31-18.11.38:430][223]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-18.11.38:430][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.11.59:152][885]Cmd: DELETE
+[2021.01.31-18.11.59:152][885]Cmd: ACTOR DELETE
+[2021.01.31-18.11.59:161][885]LogEditorActor: Deleted Actor: BP_2DSideScrollerCharacter_C
+[2021.01.31-18.11.59:193][885]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.01.31-18.11.59:197][885]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2021.01.31-18.12.02:778][278]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-18.12.02:793][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-18.12.02:793][278]PIE: New page: PIE session: 2DSideScrollerExampleMap (31.01.2021, 20:12:02)
+[2021.01.31-18.12.02:793][278]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.31-18.12.02:795][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002246s)
+[2021.01.31-18.12.02:796][278]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.01.31-18.12.02:796][278]LogPlayLevel: PIE: World Init took: (0.000998s)
+[2021.01.31-18.12.02:796][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003354s)
+[2021.01.31-18.12.02:813][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.01.31-18.12.02:814][278]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.01.31-18.12.02:814][278]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-18.12.02:814][278]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-18.12.02:814][278]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-18.12.02:814][278]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-18.12.02:814][278]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-18.12.02:814][278]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-18.12.02:814][278]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-18.12.02:814][278]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-18.12.02:815][278]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-18.12.02:815][278]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-18.12.02:817][278]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-18.12.02:817][278]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-18.12.02:831][278]LogAudioMixer: Display: Using Audio Device Kopfhörer (Realtek(R) Audio)
+[2021.01.31-18.12.02:831][278]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-18.12.02:831][278]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-18.12.02:831][278]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-18.12.02:831][278]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-18.12.02:832][278]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-18.12.02:832][278]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-18.12.02:845][278]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-18.12.02:845][278]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-18.12.02:845][278]LogInit: FAudioDevice initialized.
+[2021.01.31-18.12.02:845][278]LogAudio: Display: Audio Device (ID: 8) registered with world '2DSideScrollerExampleMap'.
+[2021.01.31-18.12.02:855][278]LogLoad: Game class is 'goBEMGameMode'
+[2021.01.31-18.12.02:855][278]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.01.31-19.12.02
+[2021.01.31-18.12.02:856][278]LogWorld: Bringing up level for play took: 0.000649
+[2021.01.31-18.12.02:856][278]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.01.31-18.12.02:859][278]PIE: Server logged in
+[2021.01.31-18.12.02:860][278]PIE: Play in editor total start time 0,07 seconds.
+[2021.01.31-18.12.05:475][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.12.05:475][586]LogWorld: BeginTearingDown for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.31-18.12.05:475][586]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-18.12.05:475][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.12.05:480][586]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-18.12.05:483][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.12.05:496][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.12.05:496][586]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-18.12.05:497][586]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-18.12.05:515][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.01.31-18.12.05:553][589]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.01.31-18.12.31:477][561]LogSlate: Window 'Create New Blueprint' being destroyed
+[2021.01.31-18.12.45:664][ 89]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-18.12.45:682][ 89]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-18.12.45:682][ 89]PIE: New page: PIE session: 2DSideScrollerExampleMap (31.01.2021, 20:12:45)
+[2021.01.31-18.12.45:682][ 89]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.31-18.12.45:685][ 89]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002697s)
+[2021.01.31-18.12.45:686][ 89]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.01.31-18.12.45:686][ 89]LogPlayLevel: PIE: World Init took: (0.001112s)
+[2021.01.31-18.12.45:686][ 89]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003913s)
+[2021.01.31-18.12.45:702][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.01.31-18.12.45:704][ 89]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.01.31-18.12.45:704][ 89]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-18.12.45:704][ 89]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-18.12.45:704][ 89]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-18.12.45:704][ 89]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-18.12.45:705][ 89]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-18.12.45:705][ 89]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-18.12.45:705][ 89]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-18.12.45:705][ 89]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-18.12.45:705][ 89]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-18.12.45:705][ 89]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-18.12.45:708][ 89]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-18.12.45:708][ 89]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-18.12.45:720][ 89]LogAudioMixer: Display: Using Audio Device Kopfhörer (Realtek(R) Audio)
+[2021.01.31-18.12.45:720][ 89]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-18.12.45:721][ 89]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-18.12.45:721][ 89]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-18.12.45:721][ 89]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-18.12.45:721][ 89]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-18.12.45:721][ 89]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-18.12.45:732][ 89]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-18.12.45:732][ 89]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-18.12.45:732][ 89]LogInit: FAudioDevice initialized.
+[2021.01.31-18.12.45:733][ 89]LogAudio: Display: Audio Device (ID: 9) registered with world '2DSideScrollerExampleMap'.
+[2021.01.31-18.12.45:745][ 89]LogLoad: Game class is 'goBEMGameMode'
+[2021.01.31-18.12.45:746][ 89]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.01.31-19.12.45
+[2021.01.31-18.12.45:748][ 89]LogWorld: Bringing up level for play took: 0.002808
+[2021.01.31-18.12.45:748][ 89]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.01.31-18.12.45:750][ 89]PIE: Server logged in
+[2021.01.31-18.12.45:751][ 89]PIE: Play in editor total start time 0,072 seconds.
+[2021.01.31-18.12.49:723][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.12.49:723][549]LogWorld: BeginTearingDown for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.31-18.12.49:723][549]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-18.12.49:723][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.12.49:727][549]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-18.12.49:783][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.12.49:796][549]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-18.12.49:796][549]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-18.12.49:797][549]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-18.12.49:812][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.12.49:814][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.01.31-18.12.49:831][550]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.01.31-18.13.21:914][828]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.01.31-18.13.24:591][122]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-18.13.24:605][122]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-18.13.24:605][122]PIE: New page: PIE session: 2DSideScrollerExampleMap (31.01.2021, 20:13:24)
+[2021.01.31-18.13.24:605][122]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.31-18.13.24:610][122]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003866s)
+[2021.01.31-18.13.24:611][122]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.01.31-18.13.24:611][122]LogPlayLevel: PIE: World Init took: (0.001053s)
+[2021.01.31-18.13.24:611][122]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.005048s)
+[2021.01.31-18.13.24:627][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.01.31-18.13.24:631][122]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.01.31-18.13.24:631][122]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-18.13.24:631][122]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-18.13.24:631][122]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-18.13.24:631][122]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-18.13.24:631][122]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-18.13.24:631][122]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-18.13.24:631][122]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-18.13.24:631][122]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-18.13.24:632][122]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-18.13.24:632][122]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-18.13.24:634][122]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-18.13.24:634][122]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-18.13.24:649][122]LogAudioMixer: Display: Using Audio Device Kopfhörer (Realtek(R) Audio)
+[2021.01.31-18.13.24:649][122]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-18.13.24:649][122]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-18.13.24:649][122]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-18.13.24:649][122]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-18.13.24:649][122]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-18.13.24:649][122]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-18.13.24:662][122]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-18.13.24:662][122]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-18.13.24:662][122]LogInit: FAudioDevice initialized.
+[2021.01.31-18.13.24:662][122]LogAudio: Display: Audio Device (ID: 10) registered with world '2DSideScrollerExampleMap'.
+[2021.01.31-18.13.24:669][122]LogLoad: Game class is 'goBEMGameMode'
+[2021.01.31-18.13.24:671][122]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.01.31-19.13.24
+[2021.01.31-18.13.24:671][122]LogWorld: Bringing up level for play took: 0.001077
+[2021.01.31-18.13.24:671][122]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.01.31-18.13.24:675][122]PIE: Server logged in
+[2021.01.31-18.13.24:675][122]PIE: Play in editor total start time 0,073 seconds.
+[2021.01.31-18.13.26:902][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.13.26:902][381]LogWorld: BeginTearingDown for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.31-18.13.26:903][381]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-18.13.26:903][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.13.26:915][381]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-18.13.26:926][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.13.26:940][381]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-18.13.26:940][381]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-18.13.26:941][381]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-18.13.26:957][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.13.26:959][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.01.31-18.13.26:988][382]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.01.31-18.13.28:538][562]Cmd: TRANSACTION UNDO
+[2021.01.31-18.13.28:539][562]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.31-18.13.28:766][564]Cmd: TRANSACTION UNDO
+[2021.01.31-18.13.28:766][564]LogEditorTransaction: Undo Edit GameMode Override
+[2021.01.31-18.13.30:418][699]Cmd: TRANSACTION UNDO
+[2021.01.31-18.13.30:418][699]LogEditorTransaction: Undo Edit GameMode Override
+[2021.01.31-18.13.33:045][950]Cmd: TRANSACTION UNDO
+[2021.01.31-18.13.33:045][950]LogEditorTransaction: Undo Create Actors
+[2021.01.31-18.13.33:284][976]Cmd: TRANSACTION UNDO
+[2021.01.31-18.13.33:285][976]LogEditorTransaction: Undo Delete Actors
+[2021.01.31-18.13.39:183][510]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-18.13.39:198][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-18.13.39:198][510]PIE: New page: PIE session: 2DSideScrollerExampleMap (31.01.2021, 20:13:39)
+[2021.01.31-18.13.39:198][510]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.31-18.13.39:202][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003438s)
+[2021.01.31-18.13.39:203][510]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.01.31-18.13.39:204][510]LogPlayLevel: PIE: World Init took: (0.001783s)
+[2021.01.31-18.13.39:204][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.005554s)
+[2021.01.31-18.13.39:222][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.01.31-18.13.39:225][510]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.01.31-18.13.39:225][510]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-18.13.39:225][510]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-18.13.39:225][510]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-18.13.39:225][510]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-18.13.39:225][510]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-18.13.39:225][510]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-18.13.39:225][510]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-18.13.39:225][510]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-18.13.39:225][510]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-18.13.39:225][510]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-18.13.39:228][510]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-18.13.39:228][510]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-18.13.39:242][510]LogAudioMixer: Display: Using Audio Device Kopfhörer (Realtek(R) Audio)
+[2021.01.31-18.13.39:242][510]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-18.13.39:242][510]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-18.13.39:242][510]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-18.13.39:243][510]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-18.13.39:243][510]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-18.13.39:243][510]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-18.13.39:257][510]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-18.13.39:257][510]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-18.13.39:257][510]LogInit: FAudioDevice initialized.
+[2021.01.31-18.13.39:257][510]LogAudio: Display: Audio Device (ID: 11) registered with world '2DSideScrollerExampleMap'.
+[2021.01.31-18.13.39:265][510]LogLoad: Game class is 'goBEMGameMode'
+[2021.01.31-18.13.39:267][510]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.01.31-19.13.39
+[2021.01.31-18.13.39:267][510]LogWorld: Bringing up level for play took: 0.000715
+[2021.01.31-18.13.39:267][510]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.01.31-18.13.39:268][510]PIE: Server logged in
+[2021.01.31-18.13.39:269][510]PIE: Play in editor total start time 0,074 seconds.
+[2021.01.31-18.13.47:943][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.13.47:943][543]LogWorld: BeginTearingDown for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.31-18.13.47:944][543]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-18.13.47:944][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.13.47:952][543]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-18.13.48:010][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.13.48:023][543]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-18.13.48:023][543]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-18.13.48:024][543]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-18.13.48:038][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.13.48:042][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.01.31-18.13.48:089][544]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.01.31-18.13.53:729][ 75]LogEditorViewport: Clicking on Actor (LMB): BP_2DSideScrollerCharacter_C (TP_2DSideScrollerCharacter)
+[2021.01.31-18.13.54:476][143]LogEditorViewport: Clicking on Actor (LMB): BP_2DSideScrollerCharacter_C (TP_2DSideScrollerCharacter)
+[2021.01.31-18.14.44:652][639]LogEditorViewport: Clicking on Actor (LMB): BP_2DSideScrollerCharacter_C (TP_2DSideScrollerCharacter)
+[2021.01.31-18.14.44:739][648]LogEditorViewport: Clicking on Component (LMB): CameraComponent (SideViewCamera)
+[2021.01.31-18.15.19:052][258]LogEditorViewport: Clicking on Actor (LMB): BP_2DSideScrollerCharacter_C (TP_2DSideScrollerCharacter)
+[2021.01.31-18.15.19:832][344]LogEditorViewport: Clicking on Actor (LMB): BP_2DSideScrollerCharacter_C (TP_2DSideScrollerCharacter)
+[2021.01.31-18.15.19:906][352]LogEditorViewport: Clicking on Component (LMB): CameraComponent (SideViewCamera)
+[2021.01.31-18.15.35:735][ 53]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter.BP_2DSideScrollerCharacter
+[2021.01.31-18.15.41:357][397]BlueprintLog: New page: Compile BP_2DSideScrollerCharacter
+[2021.01.31-18.15.41:422][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.01.31-18.15.41:464][397]LogSlate: Took 0.008059 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.01.31-18.15.45:417][675]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/BP_2DSideScrollerCharacter8A0C9C3F424C68D0A8DFE5BEFE413621.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter.uasset'
+[2021.01.31-18.15.45:431][675]AssetCheck: New page: Asset Save: BP_2DSideScrollerCharacter
+[2021.01.31-18.15.45:431][675]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter.BP_2DSideScrollerCharacter
+[2021.01.31-18.15.47:381][812]LogSlate: Window 'BP_2DSideScrollerCharacter' being destroyed
+[2021.01.31-18.15.47:395][812]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-18.15.47:396][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.15.49:927][ 71]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-18.15.49:943][ 71]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-18.15.49:943][ 71]PIE: New page: PIE session: 2DSideScrollerExampleMap (31.01.2021, 20:15:49)
+[2021.01.31-18.15.49:943][ 71]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.31-18.15.49:946][ 71]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002710s)
+[2021.01.31-18.15.49:947][ 71]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.01.31-18.15.49:947][ 71]LogPlayLevel: PIE: World Init took: (0.001326s)
+[2021.01.31-18.15.49:947][ 71]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004170s)
+[2021.01.31-18.15.49:966][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.01.31-18.15.49:968][ 71]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.01.31-18.15.49:968][ 71]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-18.15.49:968][ 71]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-18.15.49:968][ 71]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-18.15.49:968][ 71]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-18.15.49:968][ 71]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-18.15.49:968][ 71]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-18.15.49:968][ 71]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-18.15.49:968][ 71]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-18.15.49:969][ 71]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-18.15.49:969][ 71]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-18.15.49:971][ 71]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-18.15.49:971][ 71]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-18.15.49:985][ 71]LogAudioMixer: Display: Using Audio Device Kopfhörer (Realtek(R) Audio)
+[2021.01.31-18.15.49:986][ 71]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-18.15.49:986][ 71]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-18.15.49:986][ 71]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-18.15.49:986][ 71]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-18.15.49:986][ 71]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-18.15.49:986][ 71]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-18.15.49:997][ 71]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-18.15.49:997][ 71]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-18.15.49:997][ 71]LogInit: FAudioDevice initialized.
+[2021.01.31-18.15.49:997][ 71]LogAudio: Display: Audio Device (ID: 12) registered with world '2DSideScrollerExampleMap'.
+[2021.01.31-18.15.50:009][ 71]LogLoad: Game class is 'goBEMGameMode'
+[2021.01.31-18.15.50:010][ 71]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.01.31-19.15.50
+[2021.01.31-18.15.50:011][ 71]LogWorld: Bringing up level for play took: 0.001027
+[2021.01.31-18.15.50:011][ 71]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.01.31-18.15.50:013][ 71]PIE: Server logged in
+[2021.01.31-18.15.50:013][ 71]PIE: Play in editor total start time 0,074 seconds.
+[2021.01.31-18.15.52:983][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.15.52:983][415]LogWorld: BeginTearingDown for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.31-18.15.52:983][415]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-18.15.52:984][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.15.52:993][415]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-18.15.52:996][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.15.53:009][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.15.53:009][415]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-18.15.53:010][415]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-18.15.53:028][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.01.31-18.15.53:056][416]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.01.31-18.15.58:650][ 66]LogEditorViewport: Clicking on Actor (LMB): BP_2DSideScrollerCharacter_C (TP_2DSideScrollerCharacter)
+[2021.01.31-18.16.05:059][775]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-18.16.05:074][775]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-18.16.05:074][775]PIE: New page: PIE session: 2DSideScrollerExampleMap (31.01.2021, 20:16:05)
+[2021.01.31-18.16.05:074][775]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.31-18.16.05:077][775]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002892s)
+[2021.01.31-18.16.05:078][775]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.01.31-18.16.05:079][775]LogPlayLevel: PIE: World Init took: (0.001453s)
+[2021.01.31-18.16.05:079][775]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004494s)
+[2021.01.31-18.16.05:096][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.01.31-18.16.05:099][775]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.01.31-18.16.05:099][775]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-18.16.05:099][775]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-18.16.05:099][775]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-18.16.05:099][775]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-18.16.05:099][775]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-18.16.05:099][775]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-18.16.05:099][775]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-18.16.05:099][775]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-18.16.05:099][775]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-18.16.05:099][775]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-18.16.05:102][775]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-18.16.05:102][775]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-18.16.05:115][775]LogAudioMixer: Display: Using Audio Device Kopfhörer (Realtek(R) Audio)
+[2021.01.31-18.16.05:116][775]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-18.16.05:116][775]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-18.16.05:116][775]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-18.16.05:116][775]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-18.16.05:116][775]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-18.16.05:116][775]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-18.16.05:128][775]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-18.16.05:128][775]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-18.16.05:128][775]LogInit: FAudioDevice initialized.
+[2021.01.31-18.16.05:128][775]LogAudio: Display: Audio Device (ID: 13) registered with world '2DSideScrollerExampleMap'.
+[2021.01.31-18.16.05:136][775]LogLoad: Game class is 'goBEMGameMode'
+[2021.01.31-18.16.05:137][775]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.01.31-19.16.05
+[2021.01.31-18.16.05:138][775]LogWorld: Bringing up level for play took: 0.000883
+[2021.01.31-18.16.05:138][775]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.01.31-18.16.05:141][775]PIE: Server logged in
+[2021.01.31-18.16.05:141][775]PIE: Play in editor total start time 0,07 seconds.
+[2021.01.31-18.16.08:674][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.16.08:674][179]LogWorld: BeginTearingDown for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.31-18.16.08:674][179]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-18.16.08:674][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.16.08:685][179]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-18.16.08:688][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.16.08:700][179]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-18.16.08:700][179]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-18.16.08:701][179]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-18.16.08:717][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.16.08:720][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.01.31-18.16.08:744][180]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.01.31-18.16.10:071][316]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-18.16.10:083][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-18.16.10:084][316]PIE: New page: PIE session: 2DSideScrollerExampleMap (31.01.2021, 20:16:10)
+[2021.01.31-18.16.10:084][316]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.31-18.16.10:087][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003181s)
+[2021.01.31-18.16.10:088][316]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.01.31-18.16.10:088][316]LogPlayLevel: PIE: World Init took: (0.000982s)
+[2021.01.31-18.16.10:088][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004278s)
+[2021.01.31-18.16.10:103][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.01.31-18.16.10:104][316]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.01.31-18.16.10:104][316]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-18.16.10:104][316]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-18.16.10:104][316]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-18.16.10:104][316]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-18.16.10:104][316]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-18.16.10:104][316]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-18.16.10:104][316]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-18.16.10:104][316]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-18.16.10:104][316]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-18.16.10:104][316]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-18.16.10:107][316]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-18.16.10:107][316]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-18.16.10:120][316]LogAudioMixer: Display: Using Audio Device Kopfhörer (Realtek(R) Audio)
+[2021.01.31-18.16.10:120][316]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-18.16.10:120][316]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-18.16.10:120][316]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-18.16.10:120][316]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-18.16.10:120][316]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-18.16.10:120][316]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-18.16.10:133][316]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-18.16.10:133][316]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-18.16.10:133][316]LogInit: FAudioDevice initialized.
+[2021.01.31-18.16.10:133][316]LogAudio: Display: Audio Device (ID: 14) registered with world '2DSideScrollerExampleMap'.
+[2021.01.31-18.16.10:140][316]LogLoad: Game class is 'goBEMGameMode'
+[2021.01.31-18.16.10:141][316]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.01.31-19.16.10
+[2021.01.31-18.16.10:142][316]LogWorld: Bringing up level for play took: 0.001258
+[2021.01.31-18.16.10:142][316]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.01.31-18.16.10:144][316]PIE: Server logged in
+[2021.01.31-18.16.10:144][316]PIE: Play in editor total start time 0,063 seconds.
+[2021.01.31-18.16.12:033][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.16.12:033][531]LogWorld: BeginTearingDown for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.31-18.16.12:033][531]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-18.16.12:034][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.16.12:043][531]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-18.16.12:046][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.16.12:061][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.16.12:061][531]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-18.16.12:062][531]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-18.16.12:080][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.01.31-18.16.12:102][532]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.01.31-18.16.16:997][ 80]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-18.16.17:014][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-18.16.17:014][ 80]PIE: New page: PIE session: 2DSideScrollerExampleMap (31.01.2021, 20:16:17)
+[2021.01.31-18.16.17:014][ 80]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.31-18.16.17:018][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003906s)
+[2021.01.31-18.16.17:019][ 80]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.01.31-18.16.17:019][ 80]LogPlayLevel: PIE: World Init took: (0.000987s)
+[2021.01.31-18.16.17:019][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.005016s)
+[2021.01.31-18.16.17:035][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.01.31-18.16.17:037][ 80]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.01.31-18.16.17:037][ 80]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-18.16.17:037][ 80]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-18.16.17:037][ 80]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-18.16.17:037][ 80]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-18.16.17:037][ 80]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-18.16.17:037][ 80]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-18.16.17:037][ 80]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-18.16.17:037][ 80]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-18.16.17:037][ 80]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-18.16.17:037][ 80]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-18.16.17:040][ 80]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-18.16.17:040][ 80]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-18.16.17:054][ 80]LogAudioMixer: Display: Using Audio Device Kopfhörer (Realtek(R) Audio)
+[2021.01.31-18.16.17:054][ 80]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-18.16.17:054][ 80]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-18.16.17:054][ 80]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-18.16.17:055][ 80]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-18.16.17:055][ 80]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-18.16.17:055][ 80]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-18.16.17:067][ 80]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-18.16.17:067][ 80]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-18.16.17:067][ 80]LogInit: FAudioDevice initialized.
+[2021.01.31-18.16.17:067][ 80]LogAudio: Display: Audio Device (ID: 15) registered with world '2DSideScrollerExampleMap'.
+[2021.01.31-18.16.17:073][ 80]LogLoad: Game class is 'goBEMGameMode'
+[2021.01.31-18.16.17:075][ 80]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.01.31-19.16.17
+[2021.01.31-18.16.17:075][ 80]LogWorld: Bringing up level for play took: 0.001227
+[2021.01.31-18.16.17:076][ 80]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.01.31-18.16.17:078][ 80]PIE: Server logged in
+[2021.01.31-18.16.17:078][ 80]PIE: Play in editor total start time 0,066 seconds.
+[2021.01.31-18.16.19:523][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.16.19:524][363]LogWorld: BeginTearingDown for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.31-18.16.19:524][363]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-18.16.19:524][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.16.19:534][363]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-18.16.19:536][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.16.19:552][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.16.19:552][363]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-18.16.19:554][363]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-18.16.19:573][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.01.31-18.16.19:598][364]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.01.31-18.16.44:258][777]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.01.31-18.16.44:949][854]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.01.31-18.16.45:779][951]LogEditorViewport: Clicking on Actor (LMB): BP_2DSideScrollerCharacter_C (TP_2DSideScrollerCharacter)
+[2021.01.31-18.16.51:228][421]LogEditorViewport: Clicking on Actor (LMB): BP_2DSideScrollerCharacter_C (BP_2DSideScrollerCharacter)
+[2021.01.31-18.17.04:669][613]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-18.17.04:689][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-18.17.04:689][613]PIE: New page: PIE session: 2DSideScrollerExampleMap (31.01.2021, 20:17:04)
+[2021.01.31-18.17.04:689][613]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.31-18.17.04:693][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004171s)
+[2021.01.31-18.17.04:695][613]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.01.31-18.17.04:696][613]LogPlayLevel: PIE: World Init took: (0.002286s)
+[2021.01.31-18.17.04:696][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.006686s)
+[2021.01.31-18.17.04:717][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.01.31-18.17.04:722][613]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.01.31-18.17.04:722][613]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-18.17.04:722][613]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-18.17.04:722][613]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-18.17.04:722][613]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-18.17.04:722][613]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-18.17.04:722][613]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-18.17.04:722][613]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-18.17.04:722][613]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-18.17.04:723][613]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-18.17.04:723][613]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-18.17.04:725][613]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-18.17.04:725][613]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-18.17.04:740][613]LogAudioMixer: Display: Using Audio Device Kopfhörer (Realtek(R) Audio)
+[2021.01.31-18.17.04:740][613]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-18.17.04:740][613]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-18.17.04:741][613]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-18.17.04:741][613]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-18.17.04:741][613]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-18.17.04:741][613]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-18.17.04:755][613]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-18.17.04:755][613]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-18.17.04:755][613]LogInit: FAudioDevice initialized.
+[2021.01.31-18.17.04:755][613]LogAudio: Display: Audio Device (ID: 16) registered with world '2DSideScrollerExampleMap'.
+[2021.01.31-18.17.04:761][613]LogLoad: Game class is 'goBEMGameMode'
+[2021.01.31-18.17.04:762][613]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.01.31-19.17.04
+[2021.01.31-18.17.04:762][613]LogWorld: Bringing up level for play took: 0.000826
+[2021.01.31-18.17.04:762][613]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.01.31-18.17.04:764][613]PIE: Server logged in
+[2021.01.31-18.17.04:764][613]PIE: Play in editor total start time 0,079 seconds.
+[2021.01.31-18.17.15:194][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.17.15:194][853]LogWorld: BeginTearingDown for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.31-18.17.15:194][853]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-18.17.15:194][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.17.15:204][853]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-18.17.15:263][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.17.15:278][853]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-18.17.15:278][853]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-18.17.15:279][853]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-18.17.15:295][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.17.15:298][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.01.31-18.17.15:343][854]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.01.31-18.17.28:572][990]LogEditorViewport: Clicking on Actor (LMB): BP_2DSideScrollerCharacter_C (TP_2DSideScrollerCharacter)
+[2021.01.31-18.17.37:475][726]LogEditorViewport: Clicking on Actor (LMB): BP_2DSideScrollerCharacter_C (TP_2DSideScrollerCharacter)
+[2021.01.31-18.17.37:564][733]LogEditorViewport: Clicking on Component (LMB): PaperFlipbookComponent (Sprite0)
+[2021.01.31-18.17.38:465][831]LogEditorViewport: Clicking on Component (LMB): PaperFlipbookComponent (Sprite0)
+[2021.01.31-18.17.38:490][832]LogEditorViewport: Clicking on Actor (double click): BP_2DSideScrollerCharacter_C (TP_2DSideScrollerCharacter)
+[2021.01.31-18.17.39:832][949]LogEditorViewport: Clicking on Actor (LMB): BP_2DSideScrollerCharacter_C (TP_2DSideScrollerCharacter)
+[2021.01.31-18.17.39:890][953]LogEditorViewport: Clicking on Component (LMB): CapsuleComponent (CollisionCylinder)
+[2021.01.31-18.17.45:016][498]LogEditorViewport: Clicking on Component (LMB): CapsuleComponent (CollisionCylinder)
+[2021.01.31-18.18.07:973][816]LogSlate: Window 'CollisionCylinder - Property Editor' being destroyed
+[2021.01.31-18.18.23:891][408]Cmd: DELETE
+[2021.01.31-18.18.23:891][408]Cmd: ACTOR DELETE
+[2021.01.31-18.18.23:892][408]LogEditorActor: Deleted Actor: BP_2DSideScrollerCharacter_C
+[2021.01.31-18.18.23:920][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.01.31-18.18.23:928][408]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2021.01.31-18.18.24:834][514]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.01.31-18.18.25:601][601]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.01.31-18.18.26:305][673]LogEditorViewport: Clicking on Actor (LMB): BP_2DSideScrollerCharacter_C (BP_2DSideScrollerCharacter)
+[2021.01.31-18.18.30:959][ 58]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.01.31-18.18.32:016][178]Cmd: TRANSACTION UNDO
+[2021.01.31-18.18.32:016][178]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.31-18.18.33:015][230]Cmd: TRANSACTION UNDO
+[2021.01.31-18.18.33:015][230]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.31-18.18.34:274][373]Cmd: TRANSACTION UNDO
+[2021.01.31-18.18.34:274][373]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.31-18.18.34:860][443]Cmd: TRANSACTION UNDO
+[2021.01.31-18.18.34:860][443]LogEditorTransaction: Undo Delete Actors
+[2021.01.31-18.18.44:404][249]Cmd: DELETE
+[2021.01.31-18.18.44:404][249]Cmd: ACTOR DELETE
+[2021.01.31-18.18.44:405][249]LogEditorActor: Deleted Actor: BP_2DSideScrollerCharacter_C
+[2021.01.31-18.18.44:435][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.01.31-18.18.44:438][249]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2021.01.31-18.18.45:905][424]LogEditorViewport: Clicking on Actor (LMB): BP_2DSideScrollerCharacter_C (BP_2DSideScrollerCharacter)
+[2021.01.31-18.19.03:273][843]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-18.19.03:299][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-18.19.03:299][843]PIE: New page: PIE session: 2DSideScrollerExampleMap (31.01.2021, 20:19:03)
+[2021.01.31-18.19.03:300][843]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.31-18.19.03:303][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003106s)
+[2021.01.31-18.19.03:304][843]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.01.31-18.19.03:304][843]LogPlayLevel: PIE: World Init took: (0.001090s)
+[2021.01.31-18.19.03:304][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004312s)
+[2021.01.31-18.19.03:322][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.01.31-18.19.03:325][843]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.01.31-18.19.03:325][843]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-18.19.03:325][843]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-18.19.03:325][843]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-18.19.03:325][843]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-18.19.03:325][843]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-18.19.03:325][843]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-18.19.03:325][843]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-18.19.03:325][843]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-18.19.03:325][843]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-18.19.03:325][843]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-18.19.03:328][843]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-18.19.03:328][843]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-18.19.03:344][843]LogAudioMixer: Display: Using Audio Device Kopfhörer (Realtek(R) Audio)
+[2021.01.31-18.19.03:344][843]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-18.19.03:344][843]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-18.19.03:344][843]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-18.19.03:345][843]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-18.19.03:345][843]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-18.19.03:345][843]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-18.19.03:359][843]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-18.19.03:359][843]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-18.19.03:359][843]LogInit: FAudioDevice initialized.
+[2021.01.31-18.19.03:359][843]LogAudio: Display: Audio Device (ID: 17) registered with world '2DSideScrollerExampleMap'.
+[2021.01.31-18.19.03:364][843]LogLoad: Game class is 'goBEMGameMode'
+[2021.01.31-18.19.03:366][843]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.01.31-19.19.03
+[2021.01.31-18.19.03:366][843]LogWorld: Bringing up level for play took: 0.000753
+[2021.01.31-18.19.03:367][843]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.01.31-18.19.03:368][843]PIE: Server logged in
+[2021.01.31-18.19.03:369][843]PIE: Play in editor total start time 0,073 seconds.
+[2021.01.31-18.19.05:944][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.19.05:944][142]LogWorld: BeginTearingDown for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.31-18.19.05:945][142]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-18.19.05:945][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.19.05:954][142]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-18.19.06:013][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.19.06:026][142]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-18.19.06:026][142]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-18.19.06:027][142]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-18.19.06:043][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.19.06:045][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.01.31-18.19.06:089][143]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.01.31-18.19.20:620][329]Cmd: TRANSACTION UNDO
+[2021.01.31-18.19.20:620][329]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.31-18.19.20:997][337]Cmd: TRANSACTION UNDO
+[2021.01.31-18.19.20:997][337]LogEditorTransaction: Undo Delete Actors
+[2021.01.31-18.19.21:282][348]Cmd: TRANSACTION UNDO
+[2021.01.31-18.19.21:282][348]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2021.01.31-18.19.39:517][275]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.01.31-18.19.40:713][413]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.01.31-18.19.41:183][468]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.01.31-18.19.41:691][528]LogEditorViewport: Clicking on Actor (LMB): BP_2DSideScrollerCharacter_C (BP_2DSideScrollerCharacter)
+[2021.01.31-18.19.42:049][548]LogEditorViewport: Clicking on Actor (LMB): BP_2DSideScrollerCharacter_C (BP_2DSideScrollerCharacter)
+[2021.01.31-18.19.44:564][780]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.01.31-18.19.47:192][ 81]LogEditorViewport: Clicking on Actor (LMB): BP_2DSideScrollerCharacter_C (TP_2DSideScrollerCharacter)
+[2021.01.31-18.19.50:723][397]LogEditorViewport: Clicking on Actor (LMB): BP_2DSideScrollerCharacter_C (BP_2DSideScrollerCharacter)
+[2021.01.31-18.19.58:085][ 53]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.01.31-18.19.58:823][135]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.01.31-18.19.59:683][236]LogEditorViewport: Clicking on Actor (LMB): BP_2DSideScrollerCharacter_C (TP_2DSideScrollerCharacter)
+[2021.01.31-18.20.00:651][318]Cmd: DELETE
+[2021.01.31-18.20.00:651][318]Cmd: ACTOR DELETE
+[2021.01.31-18.20.00:652][318]LogEditorActor: Deleted Actor: BP_2DSideScrollerCharacter_C
+[2021.01.31-18.20.00:681][318]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.01.31-18.20.00:688][318]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2021.01.31-18.20.01:887][461]LogEditorViewport: Clicking on Actor (LMB): BP_2DSideScrollerCharacter_C (TP_2DSideScrollerCharacter)
+[2021.01.31-18.20.05:269][746]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-18.20.05:285][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-18.20.05:285][746]PIE: New page: PIE session: 2DSideScrollerExampleMap (31.01.2021, 20:20:05)
+[2021.01.31-18.20.05:285][746]LogPlayLevel: Creating play world package: /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.31-18.20.05:288][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002574s)
+[2021.01.31-18.20.05:289][746]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.01.31-18.20.05:289][746]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2021.01.31-18.20.05:289][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003598s)
+[2021.01.31-18.20.05:305][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.01.31-18.20.05:306][746]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.01.31-18.20.05:306][746]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-18.20.05:306][746]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-18.20.05:306][746]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-18.20.05:306][746]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-18.20.05:306][746]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-18.20.05:306][746]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-18.20.05:306][746]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-18.20.05:306][746]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-18.20.05:308][746]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-18.20.05:308][746]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-18.20.05:311][746]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-18.20.05:311][746]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-18.20.05:324][746]LogAudioMixer: Display: Using Audio Device Kopfhörer (Realtek(R) Audio)
+[2021.01.31-18.20.05:324][746]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-18.20.05:324][746]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-18.20.05:324][746]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-18.20.05:324][746]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-18.20.05:324][746]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-18.20.05:324][746]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-18.20.05:337][746]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-18.20.05:337][746]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-18.20.05:337][746]LogInit: FAudioDevice initialized.
+[2021.01.31-18.20.05:337][746]LogAudio: Display: Audio Device (ID: 18) registered with world '2DSideScrollerExampleMap'.
+[2021.01.31-18.20.05:346][746]LogLoad: Game class is 'goBEMGameMode'
+[2021.01.31-18.20.05:347][746]LogWorld: Bringing World /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.01.31-19.20.05
+[2021.01.31-18.20.05:347][746]LogWorld: Bringing up level for play took: 0.000787
+[2021.01.31-18.20.05:347][746]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.01.31-18.20.05:349][746]PIE: Server logged in
+[2021.01.31-18.20.05:349][746]PIE: Play in editor total start time 0,067 seconds.
+[2021.01.31-18.20.06:533][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.20.06:533][883]LogWorld: BeginTearingDown for /Game/2DSideScrollerCPP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.01.31-18.20.06:533][883]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-18.20.06:534][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.20.06:540][883]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-18.20.06:599][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-18.20.06:613][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-18.20.06:613][883]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-18.20.06:614][883]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-18.20.06:631][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.01.31-18.20.06:666][884]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.01.31-18.20.07:995][  4]Cmd: TRANSACTION UNDO
+[2021.01.31-18.20.07:995][  4]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.31-18.20.08:414][ 16]Cmd: TRANSACTION UNDO
+[2021.01.31-18.20.08:414][ 16]LogEditorTransaction: Undo Delete Actors
+[2021.01.31-18.20.27:758][744]Cmd: DELETE
+[2021.01.31-18.20.27:758][744]Cmd: ACTOR DELETE
+[2021.01.31-18.20.27:761][744]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.01.31-18.20.27:762][744]LogEditorActor: Deleted Actor: BP_2DSideScrollerCharacter_C
+[2021.01.31-18.20.27:768][744]LogEditorActor: Deleted Actor: BP_2DSideScrollerCharacter_C
+[2021.01.31-18.20.27:795][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.01.31-18.20.27:799][744]LogEditorActor: Deleted 3 Actors (0.041 secs)
+[2021.01.31-18.20.29:205][912]Cmd: TRANSACTION UNDO
+[2021.01.31-18.20.29:205][912]LogEditorTransaction: Undo Delete Actors
+[2021.01.31-18.20.30:654][ 24]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.01.31-18.20.31:464][111]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.01.31-18.20.31:966][168]LogEditorViewport: Clicking on Actor (LMB): BP_2DSideScrollerCharacter_C (TP_2DSideScrollerCharacter)
+[2021.01.31-18.20.32:778][236]Cmd: DELETE
+[2021.01.31-18.20.32:778][236]Cmd: ACTOR DELETE
+[2021.01.31-18.20.32:780][236]LogEditorActor: Deleted Actor: BP_2DSideScrollerCharacter_C
+[2021.01.31-18.20.32:805][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.31-18.20.32:808][236]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2021.01.31-18.20.54:806][696]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Projects/Unreal/goBemPlusPlus/goBEM/Source/goBEM/goBEMCharacter.h'
+[2021.01.31-18.20.54:964][696]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Projects/Unreal/goBemPlusPlus/goBEM/Source/goBEM/goBEMCharacter.cpp'
+[2021.01.31-18.21.11:455][ 33]LogEditorViewport: Clicking on Actor (LMB): BP_2DSideScrollerCharacter_C (TP_2DSideScrollerCharacter)
+[2021.01.31-18.22.01:208][816]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.01.31-18.22.01:757][824]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.01.31-18.22.01:775][824]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/2DSideScrollerExampleMap_Auto1BC6A39B449871337788A939711387B6C.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/Autosaves/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap_Auto1.umap'
+[2021.01.31-18.22.01:781][824]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap' took 0.082
+[2021.01.31-18.22.01:781][824]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.082
+[2021.01.31-18.22.01:781][824]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Character/playerGreen_walk5] ([1] browsable assets)...
+[2021.01.31-18.22.01:782][824]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Character/playerGreen_walk5.playerGreen_walk5]
+[2021.01.31-18.22.01:782][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/playerGreen_walk5]
+[2021.01.31-18.22.01:788][824]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_walk5_Auto148314D784449DFC01BBD4FB716C0ADD0.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/Autosaves/Game/Assets/Character/playerGreen_walk5_Auto1.uasset'
+[2021.01.31-18.22.01:789][824]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Character/playerGreen_dead] ([1] browsable assets)...
+[2021.01.31-18.22.01:790][824]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Character/playerGreen_dead.playerGreen_dead]
+[2021.01.31-18.22.01:790][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/playerGreen_dead]
+[2021.01.31-18.22.01:795][824]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_dead_Auto1E19D3696455A3A6FB71A1FA537C4B446.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/Autosaves/Game/Assets/Character/playerGreen_dead_Auto1.uasset'
+[2021.01.31-18.22.01:796][824]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Character/playerGreen_duck] ([1] browsable assets)...
+[2021.01.31-18.22.01:797][824]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Character/playerGreen_duck.playerGreen_duck]
+[2021.01.31-18.22.01:797][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/playerGreen_duck]
+[2021.01.31-18.22.01:802][824]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_duck_Auto1576EB2434F8291AC912AECA9B2E349BE.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/Autosaves/Game/Assets/Character/playerGreen_duck_Auto1.uasset'
+[2021.01.31-18.22.01:803][824]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Character/playerGreen_fall] ([1] browsable assets)...
+[2021.01.31-18.22.01:804][824]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Character/playerGreen_fall.playerGreen_fall]
+[2021.01.31-18.22.01:804][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/playerGreen_fall]
+[2021.01.31-18.22.01:811][824]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_fall_Auto1F434B56945890CFB5A08B48D548A8589.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/Autosaves/Game/Assets/Character/playerGreen_fall_Auto1.uasset'
+[2021.01.31-18.22.01:812][824]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Character/playerGreen_hit] ([1] browsable assets)...
+[2021.01.31-18.22.01:813][824]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Character/playerGreen_hit.playerGreen_hit]
+[2021.01.31-18.22.01:813][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/playerGreen_hit]
+[2021.01.31-18.22.01:818][824]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_hit_Auto199C371544B6E58971B5A2988F98A3D33.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/Autosaves/Game/Assets/Character/playerGreen_hit_Auto1.uasset'
+[2021.01.31-18.22.01:819][824]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Character/playerGreen_roll] ([1] browsable assets)...
+[2021.01.31-18.22.01:819][824]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Character/playerGreen_roll.playerGreen_roll]
+[2021.01.31-18.22.01:819][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/playerGreen_roll]
+[2021.01.31-18.22.01:825][824]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_roll_Auto17A8196924ABCA031BC226A8D7509B9D4.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/Autosaves/Game/Assets/Character/playerGreen_roll_Auto1.uasset'
+[2021.01.31-18.22.01:826][824]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Character/playerGreen_stand] ([1] browsable assets)...
+[2021.01.31-18.22.01:826][824]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Character/playerGreen_stand.playerGreen_stand]
+[2021.01.31-18.22.01:827][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/playerGreen_stand]
+[2021.01.31-18.22.01:832][824]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_stand_Auto15BC255AC488A7886587392BA91C629FF.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/Autosaves/Game/Assets/Character/playerGreen_stand_Auto1.uasset'
+[2021.01.31-18.22.01:832][824]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Character/playerGreen_swim1] ([1] browsable assets)...
+[2021.01.31-18.22.01:833][824]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Character/playerGreen_swim1.playerGreen_swim1]
+[2021.01.31-18.22.01:833][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/playerGreen_swim1]
+[2021.01.31-18.22.01:838][824]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_swim1_Auto131AA178D44F543AE72C59C9B271C1206.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/Autosaves/Game/Assets/Character/playerGreen_swim1_Auto1.uasset'
+[2021.01.31-18.22.01:839][824]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Character/playerGreen_swim2] ([1] browsable assets)...
+[2021.01.31-18.22.01:842][824]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Character/playerGreen_swim2.playerGreen_swim2]
+[2021.01.31-18.22.01:842][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/playerGreen_swim2]
+[2021.01.31-18.22.01:847][824]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_swim2_Auto18E75D9484B792E79233CDE926D04B197.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/Autosaves/Game/Assets/Character/playerGreen_swim2_Auto1.uasset'
+[2021.01.31-18.22.01:848][824]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Character/playerGreen_switch1] ([1] browsable assets)...
+[2021.01.31-18.22.01:849][824]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Character/playerGreen_switch1.playerGreen_switch1]
+[2021.01.31-18.22.01:849][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/playerGreen_switch1]
+[2021.01.31-18.22.01:855][824]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_switch1_Auto10AF4325143570B058A0349BC0082438C.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/Autosaves/Game/Assets/Character/playerGreen_switch1_Auto1.uasset'
+[2021.01.31-18.22.01:856][824]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Character/playerGreen_switch2] ([1] browsable assets)...
+[2021.01.31-18.22.01:856][824]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Character/playerGreen_switch2.playerGreen_switch2]
+[2021.01.31-18.22.01:856][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/playerGreen_switch2]
+[2021.01.31-18.22.01:862][824]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_switch2_Auto1CCDF57A14DFB8FB4105E89AE2C66ECBA.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/Autosaves/Game/Assets/Character/playerGreen_switch2_Auto1.uasset'
+[2021.01.31-18.22.01:862][824]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Character/playerGreen_up1] ([1] browsable assets)...
+[2021.01.31-18.22.01:863][824]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Character/playerGreen_up1.playerGreen_up1]
+[2021.01.31-18.22.01:863][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/playerGreen_up1]
+[2021.01.31-18.22.01:868][824]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_up1_Auto11A0CAFA4404DF0E6AE29C2A8E78B9085.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/Autosaves/Game/Assets/Character/playerGreen_up1_Auto1.uasset'
+[2021.01.31-18.22.01:869][824]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Character/playerGreen_up2] ([1] browsable assets)...
+[2021.01.31-18.22.01:870][824]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Character/playerGreen_up2.playerGreen_up2]
+[2021.01.31-18.22.01:870][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/playerGreen_up2]
+[2021.01.31-18.22.01:876][824]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_up2_Auto1AF3BC0154BF16D4F28DD3CB966EABE7E.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/Autosaves/Game/Assets/Character/playerGreen_up2_Auto1.uasset'
+[2021.01.31-18.22.01:877][824]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Character/playerGreen_up3] ([1] browsable assets)...
+[2021.01.31-18.22.01:878][824]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Character/playerGreen_up3.playerGreen_up3]
+[2021.01.31-18.22.01:878][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/playerGreen_up3]
+[2021.01.31-18.22.01:884][824]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_up3_Auto1ED32DEFC4CD43EDE6BC615A2931DCC1D.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/Autosaves/Game/Assets/Character/playerGreen_up3_Auto1.uasset'
+[2021.01.31-18.22.01:885][824]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Character/playerGreen_walk1] ([1] browsable assets)...
+[2021.01.31-18.22.01:888][824]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Character/playerGreen_walk1.playerGreen_walk1]
+[2021.01.31-18.22.01:888][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/playerGreen_walk1]
+[2021.01.31-18.22.01:893][824]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_walk1_Auto1EBA4425F45B832BFE175BEB77DA30EB3.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/Autosaves/Game/Assets/Character/playerGreen_walk1_Auto1.uasset'
+[2021.01.31-18.22.01:894][824]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Character/playerGreen_walk2] ([1] browsable assets)...
+[2021.01.31-18.22.01:895][824]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Character/playerGreen_walk2.playerGreen_walk2]
+[2021.01.31-18.22.01:895][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/playerGreen_walk2]
+[2021.01.31-18.22.01:900][824]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_walk2_Auto1A1471DCE44266442774E3D845C32E230.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/Autosaves/Game/Assets/Character/playerGreen_walk2_Auto1.uasset'
+[2021.01.31-18.22.01:901][824]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Character/playerGreen_walk3] ([1] browsable assets)...
+[2021.01.31-18.22.01:902][824]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Character/playerGreen_walk3.playerGreen_walk3]
+[2021.01.31-18.22.01:902][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/playerGreen_walk3]
+[2021.01.31-18.22.01:908][824]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_walk3_Auto18458FEE7468E21C05EBBF293EC84687E.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/Autosaves/Game/Assets/Character/playerGreen_walk3_Auto1.uasset'
+[2021.01.31-18.22.01:910][824]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Character/playerGreen_walk4] ([1] browsable assets)...
+[2021.01.31-18.22.01:911][824]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Character/playerGreen_walk4.playerGreen_walk4]
+[2021.01.31-18.22.01:911][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/playerGreen_walk4]
+[2021.01.31-18.22.01:916][824]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_walk4_Auto10BCDF2274C538A2A2DF36280A83C0F09.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/Autosaves/Game/Assets/Character/playerGreen_walk4_Auto1.uasset'
+[2021.01.31-18.22.01:917][824]LogFileHelpers: Auto-saving content packages took 0.136
+[2021.01.31-18.22.11:453][463]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.31-18.22.32:826][940]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.31-18.22.32:832][940]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.31-18.23.14:163][954]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.01.31-18.23.28:484][965]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.31-18.23.28:491][965]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.31-18.24.55:829][ 79]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\emir-\OneDrive\Desktop\Abstract Platformer (370 assets)\PNG\Backgrounds\set3_tiles.png)
+[2021.01.31-18.24.55:833][ 79]LogTexture: Display: Building textures: set3_tiles (AutoDXT, 640X480)
+[2021.01.31-18.24.55:880][ 79]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\emir-\OneDrive\Desktop\Abstract Platformer (370 assets)\PNG\Backgrounds\set3_background.png)
+[2021.01.31-18.24.55:883][ 79]LogTexture: Display: Building textures: set3_background (AutoDXT, 640X480)
+[2021.01.31-18.24.55:893][ 79]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\emir-\OneDrive\Desktop\Abstract Platformer (370 assets)\PNG\Backgrounds\set3_hills.png)
+[2021.01.31-18.24.55:897][ 79]LogTexture: Display: Building textures: set3_hills (AutoDXT, 640X480)
+[2021.01.31-18.25.25:863][ 64]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\emir-\OneDrive\Desktop\Abstract Platformer (370 assets)\Tilesheet\tilesheet_complete.png)
+[2021.01.31-18.25.25:885][ 64]LogTexture: Display: Building textures: tilesheet_complete (AutoDXT, 1408X768)
+[2021.01.31-18.25.30:506][196]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Environment/Tiles/tilesheet_complete.tilesheet_complete
+[2021.01.31-18.25.43:757][ 52]LogSlate: Window 'tilesheet_complete' being destroyed
+[2021.01.31-18.26.26:038][477]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\emir-\OneDrive\Desktop\Abstract Platformer (370 assets)\Spritesheet\spritesheet_enemies.png)
+[2021.01.31-18.26.26:040][477]LogTexture: Display: Building textures: spritesheet_enemies (AutoDXT, 256X256)
+[2021.01.31-18.26.47:506][776]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Environment/Tiles/tilesheet_complete.tilesheet_complete
+[2021.01.31-18.26.49:498][887]LogSlate: Window 'tilesheet_complete' being destroyed
+[2021.01.31-18.26.49:508][887]LogSlate: Window 'tilesheet_complete' being destroyed
+[2021.01.31-18.27.18:055][920]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\emir-\OneDrive\Desktop\Abstract Platformer (370 assets)\Spritesheet\spritesheet_items.png)
+[2021.01.31-18.27.18:057][920]LogTexture: Display: Building textures: spritesheet_items (AutoDXT, 128X256)
+[2021.01.31-18.28.39:229][416]LogTexture: Display: Building textures: spritesheet_enemies (BGRA8, 256X256)
+[2021.01.31-18.29.32:172][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Character/PNGs/playerGreen_dead" FILE="../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/PNGs/playerGreen_dead.uasset" SILENT=true
+[2021.01.31-18.29.32:182][601]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_dead5423FC9C45CACE6C4BEEFA9A37501888.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/PNGs/playerGreen_dead.uasset'
+[2021.01.31-18.29.32:184][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Character/PNGs/playerGreen_duck" FILE="../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/PNGs/playerGreen_duck.uasset" SILENT=true
+[2021.01.31-18.29.32:191][601]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_duckC7D74220480A98F3E40AD79068668FCE.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/PNGs/playerGreen_duck.uasset'
+[2021.01.31-18.29.32:193][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Character/PNGs/playerGreen_fall" FILE="../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/PNGs/playerGreen_fall.uasset" SILENT=true
+[2021.01.31-18.29.32:200][601]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_fall6DA9C85A4E6B10ADC56D40A107ECD385.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/PNGs/playerGreen_fall.uasset'
+[2021.01.31-18.29.32:201][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Character/PNGs/playerGreen_hit" FILE="../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/PNGs/playerGreen_hit.uasset" SILENT=true
+[2021.01.31-18.29.32:208][601]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_hit598993324770A7C055BC5DBED5455F84.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/PNGs/playerGreen_hit.uasset'
+[2021.01.31-18.29.32:210][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Character/PNGs/playerGreen_roll" FILE="../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/PNGs/playerGreen_roll.uasset" SILENT=true
+[2021.01.31-18.29.32:216][601]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_rollB23B30864BC77D53CB17E8AA5C8731F2.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/PNGs/playerGreen_roll.uasset'
+[2021.01.31-18.29.32:218][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Character/PNGs/playerGreen_stand" FILE="../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/PNGs/playerGreen_stand.uasset" SILENT=true
+[2021.01.31-18.29.32:225][601]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_standE2FED21F41C0540C854E4C9588E4A241.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/PNGs/playerGreen_stand.uasset'
+[2021.01.31-18.29.32:226][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Character/PNGs/playerGreen_swim1" FILE="../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/PNGs/playerGreen_swim1.uasset" SILENT=true
+[2021.01.31-18.29.32:233][601]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_swim1CFFEA8E441BDB0094427E28A8C9EDD52.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/PNGs/playerGreen_swim1.uasset'
+[2021.01.31-18.29.32:235][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Character/PNGs/playerGreen_swim2" FILE="../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/PNGs/playerGreen_swim2.uasset" SILENT=true
+[2021.01.31-18.29.32:241][601]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_swim215CD8E9446D4E71063573481300C16D8.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/PNGs/playerGreen_swim2.uasset'
+[2021.01.31-18.29.32:250][601]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_switch1FA48E4514298792FAA2EDC9B3EB821D0.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/PNGs/playerGreen_switch1.uasset'
+[2021.01.31-18.29.32:257][601]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_switch24827621E4A1CC20CA464A29750980B34.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/PNGs/playerGreen_switch2.uasset'
+[2021.01.31-18.29.32:258][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Character/PNGs/playerGreen_up1" FILE="../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/PNGs/playerGreen_up1.uasset" SILENT=true
+[2021.01.31-18.29.32:264][601]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_up1CD4655E04EC5E4C8BF406F9C0109C56A.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/PNGs/playerGreen_up1.uasset'
+[2021.01.31-18.29.32:266][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Character/PNGs/playerGreen_up2" FILE="../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/PNGs/playerGreen_up2.uasset" SILENT=true
+[2021.01.31-18.29.32:271][601]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_up29329BFD74AC227BF65355E9C3CC1CC68.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/PNGs/playerGreen_up2.uasset'
+[2021.01.31-18.29.32:272][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Character/PNGs/playerGreen_up3" FILE="../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/PNGs/playerGreen_up3.uasset" SILENT=true
+[2021.01.31-18.29.32:280][601]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_up3DD2DDE724604144212EFE29D16EAE404.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/PNGs/playerGreen_up3.uasset'
+[2021.01.31-18.29.32:282][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Character/PNGs/playerGreen_walk1" FILE="../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/PNGs/playerGreen_walk1.uasset" SILENT=true
+[2021.01.31-18.29.32:287][601]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_walk1AF583BAE49A7D433F9167D86E98D2EF8.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/PNGs/playerGreen_walk1.uasset'
+[2021.01.31-18.29.32:288][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Character/PNGs/playerGreen_walk2" FILE="../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/PNGs/playerGreen_walk2.uasset" SILENT=true
+[2021.01.31-18.29.32:294][601]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_walk2D125038F4F1D8D3287711CA9A403E642.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/PNGs/playerGreen_walk2.uasset'
+[2021.01.31-18.29.32:295][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Character/PNGs/playerGreen_walk3" FILE="../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/PNGs/playerGreen_walk3.uasset" SILENT=true
+[2021.01.31-18.29.32:301][601]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_walk3C6F04C0B44CAE03ED7D6D89B223B335F.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/PNGs/playerGreen_walk3.uasset'
+[2021.01.31-18.29.32:303][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Character/PNGs/playerGreen_walk4" FILE="../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/PNGs/playerGreen_walk4.uasset" SILENT=true
+[2021.01.31-18.29.32:310][601]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_walk4344BDE334F00F3D57BD8D880D7D39EAA.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/PNGs/playerGreen_walk4.uasset'
+[2021.01.31-18.29.32:312][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Character/PNGs/playerGreen_walk5" FILE="../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/PNGs/playerGreen_walk5.uasset" SILENT=true
+[2021.01.31-18.29.32:317][601]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_walk5696836274A89AB9B590F9186126F1428.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/PNGs/playerGreen_walk5.uasset'
+[2021.01.31-18.29.32:580][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.01.31-18.29.32:603][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.01.31-18.29.32:617][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.01.31-18.29.32:629][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.01.31-18.29.32:642][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.01.31-18.29.32:654][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.01.31-18.29.32:665][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.01.31-18.29.32:678][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.01.31-18.29.32:690][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.01.31-18.29.32:701][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.01.31-18.29.32:714][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.01.31-18.29.32:726][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.01.31-18.29.32:737][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.01.31-18.29.32:752][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.01.31-18.29.32:764][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.01.31-18.29.32:777][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.01.31-18.29.32:789][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.01.31-18.29.32:800][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.01.31-18.29.32:817][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.01.31-18.29.32:828][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.01.31-18.29.32:870][601]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-18.29.32:870][601]LogContentValidation: Display: Validating Texture2D /Game/Assets/Character/PNGs/playerGreen_walk4.playerGreen_walk4
+[2021.01.31-18.29.32:870][601]LogContentValidation: Display: Validating Texture2D /Game/Assets/Character/PNGs/playerGreen_walk3.playerGreen_walk3
+[2021.01.31-18.29.32:870][601]LogContentValidation: Display: Validating Texture2D /Game/Assets/Character/PNGs/playerGreen_walk2.playerGreen_walk2
+[2021.01.31-18.29.32:870][601]LogContentValidation: Display: Validating Texture2D /Game/Assets/Character/PNGs/playerGreen_walk1.playerGreen_walk1
+[2021.01.31-18.29.32:870][601]LogContentValidation: Display: Validating Texture2D /Game/Assets/Character/PNGs/playerGreen_up3.playerGreen_up3
+[2021.01.31-18.29.32:870][601]LogContentValidation: Display: Validating Texture2D /Game/Assets/Character/PNGs/playerGreen_up2.playerGreen_up2
+[2021.01.31-18.29.32:870][601]LogContentValidation: Display: Validating Texture2D /Game/Assets/Character/PNGs/playerGreen_up1.playerGreen_up1
+[2021.01.31-18.29.32:870][601]LogContentValidation: Display: Validating Texture2D /Game/Assets/Character/PNGs/playerGreen_switch2.playerGreen_switch2
+[2021.01.31-18.29.32:870][601]LogContentValidation: Display: Validating Texture2D /Game/Assets/Character/PNGs/playerGreen_switch1.playerGreen_switch1
+[2021.01.31-18.29.32:870][601]LogContentValidation: Display: Validating Texture2D /Game/Assets/Character/PNGs/playerGreen_swim2.playerGreen_swim2
+[2021.01.31-18.29.32:870][601]LogContentValidation: Display: Validating Texture2D /Game/Assets/Character/PNGs/playerGreen_swim1.playerGreen_swim1
+[2021.01.31-18.29.32:870][601]LogContentValidation: Display: Validating Texture2D /Game/Assets/Character/PNGs/playerGreen_stand.playerGreen_stand
+[2021.01.31-18.29.32:870][601]LogContentValidation: Display: Validating Texture2D /Game/Assets/Character/PNGs/playerGreen_roll.playerGreen_roll
+[2021.01.31-18.29.32:870][601]LogContentValidation: Display: Validating Texture2D /Game/Assets/Character/PNGs/playerGreen_hit.playerGreen_hit
+[2021.01.31-18.29.32:870][601]LogContentValidation: Display: Validating Texture2D /Game/Assets/Character/PNGs/playerGreen_fall.playerGreen_fall
+[2021.01.31-18.29.32:870][601]LogContentValidation: Display: Validating Texture2D /Game/Assets/Character/PNGs/playerGreen_duck.playerGreen_duck
+[2021.01.31-18.29.32:870][601]LogContentValidation: Display: Validating Texture2D /Game/Assets/Character/PNGs/playerGreen_dead.playerGreen_dead
+[2021.01.31-18.29.32:870][601]LogContentValidation: Display: Validating Texture2D /Game/Assets/Character/PNGs/playerGreen_walk5.playerGreen_walk5
+[2021.01.31-18.29.49:231][  0]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_dead_SpriteA14F909843C1FF3AE448B58E4ED7C79A.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/Sprites/playerGreen_dead_Sprite.uasset'
+[2021.01.31-18.29.49:249][  0]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_duck_SpriteDBC8A4F54647729FE1B7C984A264FA8E.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/Sprites/playerGreen_duck_Sprite.uasset'
+[2021.01.31-18.29.49:265][  0]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_fall_Sprite5AF61D5842F22EAB9A26C8AE9F0F153F.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/Sprites/playerGreen_fall_Sprite.uasset'
+[2021.01.31-18.29.49:278][  0]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_hit_Sprite61DDE23B41A624B4B17259B61949CEAC.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/Sprites/playerGreen_hit_Sprite.uasset'
+[2021.01.31-18.29.49:292][  0]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_roll_Sprite370B7FEA4FCF0781B69264967002641D.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/Sprites/playerGreen_roll_Sprite.uasset'
+[2021.01.31-18.29.49:304][  0]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_stand_Sprite90893997413EDA72A55CA2929DAF58A5.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/Sprites/playerGreen_stand_Sprite.uasset'
+[2021.01.31-18.29.49:317][  0]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_swim1_Sprite212BCCC949FF5312B183E5A296497DD6.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/Sprites/playerGreen_swim1_Sprite.uasset'
+[2021.01.31-18.29.49:329][  0]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_swim2_Sprite2671ED6F4AEFB93791C36FA0F4ACDCE2.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/Sprites/playerGreen_swim2_Sprite.uasset'
+[2021.01.31-18.29.49:346][  0]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_switch1_Sprite904D6A5242B5ED23F7346E81FB720E75.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/Sprites/playerGreen_switch1_Sprite.uasset'
+[2021.01.31-18.29.49:358][  0]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_switch2_Sprite55309DAE41F6F77776F01292C37E11F3.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/Sprites/playerGreen_switch2_Sprite.uasset'
+[2021.01.31-18.29.49:370][  0]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_up1_SpriteC421C42A4180C13FE5D0E09E99C39DF6.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/Sprites/playerGreen_up1_Sprite.uasset'
+[2021.01.31-18.29.49:383][  0]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_up2_Sprite82A4079147F7EEFFE7993394F5791EC2.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/Sprites/playerGreen_up2_Sprite.uasset'
+[2021.01.31-18.29.49:395][  0]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_up3_SpriteDCD10C4143D9764A92311496C2DFE840.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/Sprites/playerGreen_up3_Sprite.uasset'
+[2021.01.31-18.29.49:412][  0]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_walk1_SpriteF18BC5DF4F3CF6E3894F308D90A934D4.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/Sprites/playerGreen_walk1_Sprite.uasset'
+[2021.01.31-18.29.49:425][  0]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_walk2_Sprite10FCB7124FF23F4AE39B9888719F96B2.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/Sprites/playerGreen_walk2_Sprite.uasset'
+[2021.01.31-18.29.49:437][  0]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_walk3_SpriteA47DB87947B13891CAF7B89AAA67123B.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/Sprites/playerGreen_walk3_Sprite.uasset'
+[2021.01.31-18.29.49:453][  0]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_walk4_Sprite4996AD654BCAEBF044AE46B4EEB3BBCD.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/Sprites/playerGreen_walk4_Sprite.uasset'
+[2021.01.31-18.29.49:465][  0]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_walk5_SpriteA777418A4089B837BC71E0AABA809DC7.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/Sprites/playerGreen_walk5_Sprite.uasset'
+[2021.01.31-18.29.49:663][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.01.31-18.29.49:681][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.01.31-18.29.49:693][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.01.31-18.29.49:705][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.01.31-18.29.49:718][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.01.31-18.29.49:729][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.01.31-18.29.49:741][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.01.31-18.29.49:753][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.01.31-18.29.49:764][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.01.31-18.29.49:775][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.01.31-18.29.49:787][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.01.31-18.29.49:797][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.01.31-18.29.49:809][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.01.31-18.29.49:820][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.01.31-18.29.49:831][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.01.31-18.29.49:843][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.01.31-18.29.49:854][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.01.31-18.29.49:867][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.01.31-18.29.49:884][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.01.31-18.29.49:895][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.01.31-18.29.49:919][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Character/playerGreen_walk" FILE="../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/playerGreen_walk.uasset" SILENT=true
+[2021.01.31-18.29.49:924][  0]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_walk6131AD15405C3C50D992BE8DAD879D48.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/playerGreen_walk.uasset'
+[2021.01.31-18.29.49:967][  0]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-18.29.49:967][  0]LogContentValidation: Display: Validating PaperSprite /Game/Assets/Character/Sprites/playerGreen_dead_Sprite.playerGreen_dead_Sprite
+[2021.01.31-18.29.49:967][  0]LogContentValidation: Display: Validating PaperSprite /Game/Assets/Character/Sprites/playerGreen_duck_Sprite.playerGreen_duck_Sprite
+[2021.01.31-18.29.49:967][  0]LogContentValidation: Display: Validating PaperSprite /Game/Assets/Character/Sprites/playerGreen_fall_Sprite.playerGreen_fall_Sprite
+[2021.01.31-18.29.49:967][  0]LogContentValidation: Display: Validating PaperSprite /Game/Assets/Character/Sprites/playerGreen_hit_Sprite.playerGreen_hit_Sprite
+[2021.01.31-18.29.49:967][  0]LogContentValidation: Display: Validating PaperSprite /Game/Assets/Character/Sprites/playerGreen_roll_Sprite.playerGreen_roll_Sprite
+[2021.01.31-18.29.49:967][  0]LogContentValidation: Display: Validating PaperSprite /Game/Assets/Character/Sprites/playerGreen_stand_Sprite.playerGreen_stand_Sprite
+[2021.01.31-18.29.49:967][  0]LogContentValidation: Display: Validating PaperSprite /Game/Assets/Character/Sprites/playerGreen_swim1_Sprite.playerGreen_swim1_Sprite
+[2021.01.31-18.29.49:967][  0]LogContentValidation: Display: Validating PaperSprite /Game/Assets/Character/Sprites/playerGreen_swim2_Sprite.playerGreen_swim2_Sprite
+[2021.01.31-18.29.49:967][  0]LogContentValidation: Display: Validating PaperSprite /Game/Assets/Character/Sprites/playerGreen_switch1_Sprite.playerGreen_switch1_Sprite
+[2021.01.31-18.29.49:967][  0]LogContentValidation: Display: Validating PaperSprite /Game/Assets/Character/Sprites/playerGreen_switch2_Sprite.playerGreen_switch2_Sprite
+[2021.01.31-18.29.49:967][  0]LogContentValidation: Display: Validating PaperSprite /Game/Assets/Character/Sprites/playerGreen_up1_Sprite.playerGreen_up1_Sprite
+[2021.01.31-18.29.49:967][  0]LogContentValidation: Display: Validating PaperSprite /Game/Assets/Character/Sprites/playerGreen_up2_Sprite.playerGreen_up2_Sprite
+[2021.01.31-18.29.49:967][  0]LogContentValidation: Display: Validating PaperSprite /Game/Assets/Character/Sprites/playerGreen_up3_Sprite.playerGreen_up3_Sprite
+[2021.01.31-18.29.49:967][  0]LogContentValidation: Display: Validating PaperSprite /Game/Assets/Character/Sprites/playerGreen_walk1_Sprite.playerGreen_walk1_Sprite
+[2021.01.31-18.29.49:967][  0]LogContentValidation: Display: Validating PaperSprite /Game/Assets/Character/Sprites/playerGreen_walk2_Sprite.playerGreen_walk2_Sprite
+[2021.01.31-18.29.49:967][  0]LogContentValidation: Display: Validating PaperSprite /Game/Assets/Character/Sprites/playerGreen_walk3_Sprite.playerGreen_walk3_Sprite
+[2021.01.31-18.29.49:967][  0]LogContentValidation: Display: Validating PaperSprite /Game/Assets/Character/Sprites/playerGreen_walk4_Sprite.playerGreen_walk4_Sprite
+[2021.01.31-18.29.49:967][  0]LogContentValidation: Display: Validating PaperSprite /Game/Assets/Character/Sprites/playerGreen_walk5_Sprite.playerGreen_walk5_Sprite
+[2021.01.31-18.29.49:967][  0]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Character/playerGreen_walk.playerGreen_walk
+[2021.01.31-18.29.59:258][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Character/anims/playerGreen_walk" FILE="../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/anims/playerGreen_walk.uasset" SILENT=true
+[2021.01.31-18.29.59:267][849]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/playerGreen_walkB0F94D2E40DB7A9CDCC79A93FD34F541.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Character/anims/playerGreen_walk.uasset'
+[2021.01.31-18.29.59:354][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.01.31-18.29.59:375][849]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.01.31-18.29.59:387][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.01.31-18.29.59:425][849]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/BP_2DSideScrollerCharacter3929735B49D0BE2FA054CC898A2AA456.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter.uasset'
+[2021.01.31-18.29.59:464][849]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-18.29.59:464][849]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerCPP/Blueprints/BP_2DSideScrollerCharacter.BP_2DSideScrollerCharacter
+[2021.01.31-18.29.59:464][849]LogContentValidation: Display: Validating PaperFlipbook /Game/Assets/Character/anims/playerGreen_walk.playerGreen_walk
+[2021.01.31-18.30.56:282][ 72]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/spritesheet_enemies_Sprite47F110E743C89E8D03919C9737B69821.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Enemies/Sprites/spritesheet_enemies_Sprite.uasset'
+[2021.01.31-18.30.56:364][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.01.31-18.30.56:392][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.01.31-18.30.56:406][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.31-18.30.56:442][ 72]AssetCheck: New page: Asset Save: spritesheet_enemies_Sprite
+[2021.01.31-18.30.56:442][ 72]LogContentValidation: Display: Validating PaperSprite /Game/Assets/Enemies/Sprites/spritesheet_enemies_Sprite.spritesheet_enemies_Sprite
+[2021.01.31-18.30.58:358][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Enemies/PNGs/spritesheet_enemies" FILE="../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Enemies/PNGs/spritesheet_enemies.uasset" SILENT=true
+[2021.01.31-18.30.58:367][236]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/spritesheet_enemiesEDC8AA6B4D6C62C8E6AD4EBDF9F91C14.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Enemies/PNGs/spritesheet_enemies.uasset'
+[2021.01.31-18.30.58:449][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.01.31-18.30.58:469][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.01.31-18.30.58:484][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.01.31-18.30.58:524][236]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/spritesheet_enemies_SpriteD0FEC01944021EE80DB5598D07815E58.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Enemies/Sprites/spritesheet_enemies_Sprite.uasset'
+[2021.01.31-18.30.58:559][236]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-18.30.58:559][236]LogContentValidation: Display: Validating PaperSprite /Game/Assets/Enemies/Sprites/spritesheet_enemies_Sprite.spritesheet_enemies_Sprite
+[2021.01.31-18.30.58:559][236]LogContentValidation: Display: Validating Texture2D /Game/Assets/Enemies/PNGs/spritesheet_enemies.spritesheet_enemies
+[2021.01.31-18.31.08:486][ 54]LogTexture: Display: Building textures: set3_background (BGRA8, 640X480)
+[2021.01.31-18.31.08:496][ 54]LogTexture: Display: Building textures: set3_tiles (BGRA8, 640X480)
+[2021.01.31-18.31.08:504][ 54]LogTexture: Display: Building textures: set3_hills (BGRA8, 640X480)
+[2021.01.31-18.31.28:098][701]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/set3_backgroundB26F147C4D864BC2017775A8AE6AF13F.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Environment/Background/PNGs/set3_background.uasset'
+[2021.01.31-18.31.28:116][701]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/set3_hills5E0314184C532A1BF35CBFA5B6B045CC.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Environment/Background/PNGs/set3_hills.uasset'
+[2021.01.31-18.31.28:135][701]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/set3_tiles10313F014CF125EDC4CE6B8C4F317DE3.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Environment/Background/PNGs/set3_tiles.uasset'
+[2021.01.31-18.31.28:235][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.01.31-18.31.28:254][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.01.31-18.31.28:268][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.01.31-18.31.28:289][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.01.31-18.31.28:304][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.01.31-18.31.28:341][701]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-18.31.28:341][701]LogContentValidation: Display: Validating Texture2D /Game/Assets/Environment/Background/PNGs/set3_hills.set3_hills
+[2021.01.31-18.31.28:341][701]LogContentValidation: Display: Validating Texture2D /Game/Assets/Environment/Background/PNGs/set3_background.set3_background
+[2021.01.31-18.31.28:341][701]LogContentValidation: Display: Validating Texture2D /Game/Assets/Environment/Background/PNGs/set3_tiles.set3_tiles
+[2021.01.31-18.31.33:215][126]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/set3_tiles_SpriteF756F27042AB5F1436A6D59BBC40BD61.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Environment/Background/Sprites/set3_tiles_Sprite.uasset'
+[2021.01.31-18.31.33:231][126]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/set3_background_Sprite5489CC794D02640C015CF7BDAE928EFF.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Environment/Background/Sprites/set3_background_Sprite.uasset'
+[2021.01.31-18.31.33:245][126]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/set3_hills_Sprite660640264A9AAFFA88C04083D4CAEBA9.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Environment/Background/Sprites/set3_hills_Sprite.uasset'
+[2021.01.31-18.31.33:349][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.01.31-18.31.33:362][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.01.31-18.31.33:375][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.01.31-18.31.33:393][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.01.31-18.31.33:407][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.01.31-18.31.33:439][126]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-18.31.33:439][126]LogContentValidation: Display: Validating PaperSprite /Game/Assets/Environment/Background/Sprites/set3_hills_Sprite.set3_hills_Sprite
+[2021.01.31-18.31.33:440][126]LogContentValidation: Display: Validating PaperSprite /Game/Assets/Environment/Background/Sprites/set3_tiles_Sprite.set3_tiles_Sprite
+[2021.01.31-18.31.33:440][126]LogContentValidation: Display: Validating PaperSprite /Game/Assets/Environment/Background/Sprites/set3_background_Sprite.set3_background_Sprite
+[2021.01.31-18.31.39:609][694]LogTexture: Display: Building textures: tilesheet_complete (BGRA8, 1408X768)
+[2021.01.31-18.31.54:788][987]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/tilesheet_completeB14FDF3B452C322278CBDAB4BC7F5249.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Environment/Tiles/PNGs/tilesheet_complete.uasset'
+[2021.01.31-18.31.54:864][987]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.01.31-18.31.54:889][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2021.01.31-18.31.54:903][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.01.31-18.31.54:938][987]AssetCheck: New page: Asset Save: tilesheet_complete
+[2021.01.31-18.31.54:938][987]LogContentValidation: Display: Validating Texture2D /Game/Assets/Environment/Tiles/PNGs/tilesheet_complete.tilesheet_complete
+[2021.01.31-18.31.56:762][139]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/tilesheet_complete_SpriteC6D4011748C9D28817F3BA95DF30F035.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Environment/Tiles/Sprites/tilesheet_complete_Sprite.uasset'
+[2021.01.31-18.31.56:844][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.01.31-18.31.56:864][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.01.31-18.31.56:877][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.31-18.31.56:914][139]AssetCheck: New page: Asset Save: tilesheet_complete_Sprite
+[2021.01.31-18.31.56:914][139]LogContentValidation: Display: Validating PaperSprite /Game/Assets/Environment/Tiles/Sprites/tilesheet_complete_Sprite.tilesheet_complete_Sprite
+[2021.01.31-18.32.01:545][541]LogTexture: Display: Building textures: spritesheet_items (BGRA8, 128X256)
+[2021.01.31-18.32.28:285][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Items/PNGs/spritesheet_items" FILE="../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Items/PNGs/spritesheet_items.uasset" SILENT=true
+[2021.01.31-18.32.28:296][970]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/spritesheet_itemsD335795E448064856BC2C1B4706BE245.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Items/PNGs/spritesheet_items.uasset'
+[2021.01.31-18.32.28:379][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.01.31-18.32.28:403][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.01.31-18.32.28:420][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.01.31-18.32.28:454][970]AssetCheck: New page: Asset Save: spritesheet_items
+[2021.01.31-18.32.28:454][970]LogContentValidation: Display: Validating Texture2D /Game/Assets/Items/PNGs/spritesheet_items.spritesheet_items
+[2021.01.31-18.32.30:733][167]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/spritesheet_items_Sprite5BCC2D2A4044269B6A754AA75908F1CB.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Assets/Items/Sprites/spritesheet_items_Sprite.uasset'
+[2021.01.31-18.32.30:813][167]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.01.31-18.32.30:832][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.01.31-18.32.30:846][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.01.31-18.32.30:882][167]AssetCheck: New page: Asset Save: spritesheet_items_Sprite
+[2021.01.31-18.32.30:882][167]LogContentValidation: Display: Validating PaperSprite /Game/Assets/Items/Sprites/spritesheet_items_Sprite.spritesheet_items_Sprite
+[2021.01.31-18.36.21:652][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.01.31-18.36.21:677][ 48]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/2DSideScrollerExampleMap_Auto20074BF354785623202E1268AD7279A60.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/Autosaves/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap_Auto2.umap'
+[2021.01.31-18.36.21:679][ 48]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap' took 0.046
+[2021.01.31-18.36.21:679][ 48]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.046
+[2021.01.31-18.41.45:928][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.01.31-18.41.45:956][309]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/2DSideScrollerExampleMap54932748480E9262D00961871A849F70.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.umap'
+[2021.01.31-18.41.45:983][309]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/2DSideScrollerExampleMap_BuiltDaBA0234D94A8C4B37415B4F91D17F14AC.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2021.01.31-18.41.45:995][309]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-18.41.45:995][309]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2021.01.31-18.41.45:995][309]LogContentValidation: Display: Validating World /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
