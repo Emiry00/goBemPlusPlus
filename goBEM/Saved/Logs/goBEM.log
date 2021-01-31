@@ -2187,3 +2187,236 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.31-18.41.45:995][309]AssetCheck: New page: Asset Save: multiple assets
 [2021.01.31-18.41.45:995][309]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
 [2021.01.31-18.41.45:995][309]LogContentValidation: Display: Validating World /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2021.01.31-18.55.38:333][318]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.01.31-19.01.02:248][967]LogEditorViewport: Clicking on Actor (LMB): BP_2DSideScrollerCharacter_C (TP_2DSideScrollerCharacter)
+[2021.01.31-19.01.06:553][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.01.31-19.01.06:580][345]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/2DSideScrollerExampleMapF6C526C3471E1999A029BAAA631643FB.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.umap'
+[2021.01.31-19.01.06:605][345]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/2DSideScrollerExampleMap_BuiltDa645AE44341B9095CD70C8297DC885C09.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2021.01.31-19.01.06:616][345]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-19.01.06:616][345]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2021.01.31-19.01.06:616][345]LogContentValidation: Display: Validating World /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2021.01.31-19.01.54:515][687]LogSlate: Window 'Source Control Login' being destroyed
+[2021.01.31-19.02.05:552][657]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.05:552][657]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.05:552][657]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.05:552][657]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.05:552][657]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.05:552][657]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.05:552][657]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.05:552][657]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.05:552][657]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.05:552][657]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.05:552][657]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.05:552][657]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.05:552][657]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.05:552][657]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.05:552][657]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.05:552][657]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.05:552][657]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.05:552][657]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.05:552][657]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.05:553][657]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.05:553][657]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.05:818][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.01.31-19.02.05:846][657]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/2DSideScrollerExampleMap18BE6FDC4BD459EE66A6FF9E3D939B63.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.umap'
+[2021.01.31-19.02.05:862][657]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.057
+[2021.01.31-19.02.12:267][657]LogSlate: Window 'Submit Files' being destroyed
+[2021.01.31-19.02.12:288][658]AssetCheck: New page: Asset Save: 2DSideScrollerExampleMap
+[2021.01.31-19.02.12:288][658]LogContentValidation: Display: Validating World /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2021.01.31-19.02.42:834][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/goBEMWorld" FILE="../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Map/goBEMWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.31-19.02.42:849][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.01.31-19.02.42:858][530]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/goBEMWorldDC7F31D54C8598044F0B82B3F787B757.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Map/goBEMWorld.umap'
+[2021.01.31-19.02.42:975][530]LogFileHelpers: Saving map 'goBEMWorld' took 0.141
+[2021.01.31-19.02.42:984][530]AssetCheck: New page: Asset Save: goBEMWorld
+[2021.01.31-19.02.42:984][530]LogContentValidation: Display: Validating World /Game/Map/goBEMWorld.goBEMWorld
+[2021.01.31-19.02.46:220][774]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.46:220][774]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.46:220][774]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.46:220][774]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.46:220][774]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.46:220][774]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.46:220][774]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.46:220][774]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.46:220][774]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.46:220][774]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.46:220][774]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.46:220][774]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.46:220][774]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.46:220][774]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.46:220][774]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.46:220][774]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.46:220][774]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.46:220][774]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.46:220][774]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.46:221][774]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.46:221][774]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.02.46:515][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.01.31-19.02.46:532][774]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/2DSideScrollerExampleMapF8F5E3C74E23F4B1B621ECA3DAA09E4C.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.umap'
+[2021.01.31-19.02.46:553][774]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.052
+[2021.01.31-19.02.46:553][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/goBEMWorld" FILE="../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Map/goBEMWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.31-19.02.46:565][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.01.31-19.02.46:572][774]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/goBEMWorld255DBB994D8E06D6E2FC93B74AE79897.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/Map/goBEMWorld.umap'
+[2021.01.31-19.02.46:573][774]LogFileHelpers: Saving map 'goBEMWorld' took 0.021
+[2021.01.31-19.03.14:970][774]LogSlate: Window 'Submit Files' being destroyed
+[2021.01.31-19.03.15:237][774]LogSourceControl: commit successful: [main fa9ab0a] Added world
+[2021.01.31-19.03.15:324][774]SourceControl: [main fa9ab0a] Added world
+[2021.01.31-19.03.15:324][774]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2021.01.31-19.03.15:324][774]SourceControl:  create mode 100644 goBEM/Content/Map/goBEMWorld.umap
+[2021.01.31-19.03.15:334][774]SourceControl: Commited [main fa9ab0a] Added world.
+[2021.01.31-19.03.15:374][775]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-19.03.15:374][775]LogContentValidation: Display: Validating World /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2021.01.31-19.03.15:374][775]LogContentValidation: Display: Validating World /Game/Map/goBEMWorld.goBEMWorld
+[2021.01.31-19.03.26:891][735]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.01.31-19.03.29:664][ 27]LogSlate: Window 'Source Control Login' being destroyed
+[2021.01.31-19.03.34:532][469]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.03.34:532][469]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.03.34:532][469]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.03.34:532][469]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.03.34:532][469]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.03.34:532][469]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.03.34:532][469]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.03.34:532][469]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.03.34:532][469]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.03.34:532][469]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.03.34:532][469]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.03.34:532][469]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.03.34:533][469]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.03.34:533][469]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.03.34:533][469]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.03.34:533][469]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.03.34:533][469]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.03.34:533][469]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.03.34:533][469]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.03.34:533][469]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.03.34:533][469]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.03.34:668][469]EditorErrors: Warning: No assets to check in!
+[2021.01.31-19.03.40:982][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.01.31-19.03.41:003][128]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/2DSideScrollerExampleMap11B6FE25499BC4C950F5BC8AA4C788E8.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.umap'
+[2021.01.31-19.03.41:098][128]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/2DSideScrollerExampleMap_BuiltDaDD57E3B74C5A93BD43A384AFA9219012.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2021.01.31-19.03.41:106][128]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-19.03.41:106][128]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2021.01.31-19.03.41:106][128]LogContentValidation: Display: Validating World /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2021.01.31-19.04.02:692][ 66]MapCheck: New page: Map Check
+[2021.01.31-19.04.02:758][ 66]Cmd: MAP REBUILD ALLVISIBLE
+[2021.01.31-19.04.02:758][ 66]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.01.31-19.04.02:822][ 66]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=false
+[2021.01.31-19.04.02:832][ 66]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.01.31-19.04.02:832][ 66]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.01.31-19.04.02:832][ 66]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.01.31-19.04.02:848][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.01.31-19.04.02:858][ 66]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.31-19.04.02:869][ 66]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.31-19.04.02:871][ 66]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.31-19.04.02:873][ 66]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.31-19.04.03:952][ 66]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.01.31-19.04.03:952][ 66]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.01.31-19.04.03:952][ 66]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2021.01.31-19.04.03:952][ 66]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.01.31-19.04.03:952][ 66]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.01.31-19.04.03:952][ 66]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.01.31-19.04.03:952][ 66]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.01.31-19.04.03:952][ 66]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.01.31-19.04.03:952][ 66]TextureStreamingBuild: Display: Compiling optional shaders took 1.102 seconds.
+[2021.01.31-19.04.03:973][ 66]LogLevel: Display: Export Material TexCoord Scales took 0.021 seconds.
+[2021.01.31-19.04.03:975][ 66]TextureStreamingBuild: Display: Build Texture Streaming took 0.002 seconds.
+[2021.01.31-19.04.03:987][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.01.31-19.04.03:989][ 66]LightingResults: New page: Lighting Build - 31.01.2021, 21:04:03
+[2021.01.31-19.04.04:084][ 66]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.01.31-19.04.04:234][ 66]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.01.31-19.04.04:248][ 66]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.01.31-19.04.04:762][ 66]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.01.31-19.04.04:762][ 66]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14736
+[2021.01.31-19.04.07:241][ 66]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.01.31-19.04.07:241][ 66]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.01.31-19.04.07:241][ 66]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.01.31-19.04.07:241][ 66]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.01.31-19.04.07:241][ 66]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.01.31-19.04.07:242][ 66]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.01.31-19.04.07:387][ 66]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.01.31-19.04.07:387][ 66]MapCheck: New page: 2DSideScrollerExampleMap - 31.01.2021, 21:04:07
+[2021.01.31-19.04.07:388][ 66]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,196ms to complete.
+[2021.01.31-19.04.07:391][ 66]LogEditorBuildUtils: Build time 0:04
+[2021.01.31-19.04.07:728][ 66]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2021.01.31-19.04.07:736][ 66]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2021.01.31-19.04.07:870][ 66]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.01.31-19.04.07:870][ 66]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.01.31-19.04.07:870][ 66]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.01.31-19.04.07:870][ 66]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.01.31-19.04.08:492][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.01.31-19.04.10:163][117]Job is a success!
+[2021.01.31-19.04.10:323][118]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2021.01.31-19.04.10:323][118]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.01.31-19.04.10:323][118]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2021.01.31-19.04.10:323][118]LogVolumetricLightmapImport:      Bricks at depth
+[2021.01.31-19.04.10:323][118]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2021.01.31-19.04.10:323][118]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2021.01.31-19.04.10:323][118]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2021.01.31-19.04.10:323][118]LogVolumetricLightmapImport:      Bricks in each level
+[2021.01.31-19.04.10:323][118]LogVolumetricLightmapImport:          2DSideScrollerExampleMap 			 1 bricks 	 100.0% (Persistent Level)
+[2021.01.31-19.04.10:342][118]Lightmass on LAPTOP-H4M9GGIA: 764 ms total, 153 ms importing, 24 ms setup, 25 ms photons, 462 ms processing, 0 ms extra exporting [0/0 mappings]. Threads: 5.07 sec total, 0 ms processing.
+[2021.01.31-19.04.10:400][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.01.31-19.04.10:549][118]LogStaticLightingSystem: Illumination: 6.38 sec (0 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2021.01.31-19.04.10:549][118]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2021.01.31-19.04.10:549][118]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2021.01.31-19.04.11:256][118]DumpUnbuiltLightIteractions
+[2021.01.31-19.04.11:256][118]Lights with unbuilt interactions: 0
+[2021.01.31-19.04.11:256][118]
+[2021.01.31-19.04.11:256][118]Primitives with unbuilt interactions: 0
+[2021.01.31-19.04.11:314][119]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.01.31-19.04.11:314][119]MapCheck: New page: 2DSideScrollerExampleMap - 31.01.2021, 21:04:11
+[2021.01.31-19.04.11:314][119]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,289ms to complete.
+[2021.01.31-19.04.15:117][526]Candidate modules for hot reload:
+[2021.01.31-19.04.15:117][526]  goBEM
+[2021.01.31-19.04.15:118][526]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=goBEM,2983 goBEMEditor Win64 Development -Project="C:/Projects/Unreal/goBemPlusPlus/goBEM/goBEM.uproject" "C:/Projects/Unreal/goBemPlusPlus/goBEM/goBEM.uproject"  -IgnoreJunk]
+[2021.01.31-19.04.15:120][526]Warning: Starting HotReload took  0.0s.
+[2021.01.31-19.04.18:055][732]CompilerResultsLog: New page: Compilation - 31.01.2021, 21:04:18
+[2021.01.31-19.04.18:056][732]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Projects\Unreal\goBemPlusPlus).
+[2021.01.31-19.04.18:056][732]CompilerResultsLog: Building goBEMEditor...
+[2021.01.31-19.04.18:056][732]CompilerResultsLog: Using Visual Studio 2019 14.28.29336 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.01.31-19.04.18:056][732]CompilerResultsLog: Building 3 actions with 12 processes...
+[2021.01.31-19.04.18:056][732]CompilerResultsLog:   [1/3] UE4Editor-goBEM-2983.lib
+[2021.01.31-19.04.18:056][732]CompilerResultsLog:      Bibliothek "C:\Projects\Unreal\goBemPlusPlus\goBEM\Intermediate\Build\Win64\UE4Editor\Development\goBEM\UE4Editor-goBEM-2983.lib" und Objekt "C:\Projects\Unreal\goBemPlusPlus\goBEM\Intermediate\Build\Win64\UE4Editor\Development\goBEM\UE4Editor-goBEM-2983.exp" werden erstellt.
+[2021.01.31-19.04.18:056][732]CompilerResultsLog:   [2/3] UE4Editor-goBEM-2983.dll
+[2021.01.31-19.04.18:056][732]CompilerResultsLog:      Bibliothek "C:\Projects\Unreal\goBemPlusPlus\goBEM\Intermediate\Build\Win64\UE4Editor\Development\goBEM\UE4Editor-goBEM-2983.suppressed.lib" und Objekt "C:\Projects\Unreal\goBemPlusPlus\goBEM\Intermediate\Build\Win64\UE4Editor\Development\goBEM\UE4Editor-goBEM-2983.suppressed.exp" werden erstellt.
+[2021.01.31-19.04.18:056][732]CompilerResultsLog:   [3/3] goBEMEditor.target
+[2021.01.31-19.04.18:056][732]CompilerResultsLog: Total time in Parallel executor: 2,04 seconds
+[2021.01.31-19.04.18:056][732]CompilerResultsLog: Total execution time: 2,83 seconds
+[2021.01.31-19.04.18:056][732]LogMainFrame: MainFrame: Module compiling took 2.957 seconds
+[2021.01.31-19.04.18:093][732]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'goBEM' in 0.0002 seconds. Added 2 classes and 2 folders.
+[2021.01.31-19.04.18:095][732]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.01.31-19.04.18:161][732]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0113 seconds. Added 3604 classes and 863 folders.
+[2021.01.31-19.04.18:161][732]Display: HotReload took  3.1s.
+[2021.01.31-19.04.22:421][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.01.31-19.04.22:439][133]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/2DSideScrollerExampleMap45092D064CA582A0A25603A1576C3BA2.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.umap'
+[2021.01.31-19.04.22:454][133]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.089
+[2021.01.31-19.04.22:459][133]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/2DSideScrollerExampleMap_BuiltDa4176063C44BB6DC70E56F7A9C12847E8.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2021.01.31-19.04.22:473][133]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-19.04.22:474][133]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2021.01.31-19.04.22:474][133]LogContentValidation: Display: Validating World /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2021.01.31-19.04.30:351][964]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.04.30:352][964]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.04.30:352][964]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.04.30:352][964]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.04.30:352][964]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.04.30:352][964]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.04.30:352][964]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.04.30:352][964]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.04.30:352][964]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.04.30:352][964]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.04.30:352][964]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.04.30:352][964]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.04.30:352][964]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.04.30:352][964]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.04.30:352][964]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.04.30:352][964]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.04.30:352][964]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.04.30:352][964]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.04.30:352][964]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.04.30:352][964]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.04.30:352][964]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Projects/Unreal/goBemPlusPlus'
+[2021.01.31-19.04.30:601][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.01.31-19.04.30:617][964]LogSavePackage: Moving '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Saved/2DSideScrollerExampleMapA18D22E04129D9BE9A7225AC52C979CC.tmp' to '../../../../../../Projects/Unreal/goBemPlusPlus/goBEM/Content/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.umap'
+[2021.01.31-19.04.30:633][964]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.051
+[2021.01.31-19.04.34:192][964]LogSlate: Window 'Submit Files' being destroyed
+[2021.01.31-19.04.34:210][965]AssetCheck: New page: Asset Save: 2DSideScrollerExampleMap
+[2021.01.31-19.04.34:210][965]LogContentValidation: Display: Validating World /Game/2DSideScrollerCPP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
