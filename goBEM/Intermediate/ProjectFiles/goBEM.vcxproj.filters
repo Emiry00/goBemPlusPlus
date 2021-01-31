@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\goBEM.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{7AFC6B51-A360-4E51-8BC4-B2813286C184}</UniqueIdentifier>
+      <UniqueIdentifier>{554E7A61-9EA8-4EBB-9F56-96C38E0B55E2}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\goBEM.Target.cs">
       <Filter>Source</Filter>
@@ -13,7 +13,7 @@
     </None>
     <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{C6EB93A5-25C5-4CBF-B550-CF04F9720E7B}</UniqueIdentifier>
+      <UniqueIdentifier>{94176F94-241A-4185-81AA-139C330BF130}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -31,7 +31,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\goBEM">
-      <UniqueIdentifier>{3C04EAAC-2F3D-4CB5-A16A-3C7EBB6A13A9}</UniqueIdentifier>
+      <UniqueIdentifier>{63A76AFC-0F48-4CDC-954F-EA124DE197FA}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\goBEM\goBEM.Build.cs">
       <Filter>Source\goBEM</Filter>

@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\musta\\Documents\\Unreal\\goBemPlusPlus\\goBEM\\Source\\goBEM\\goBEM.Build.cs",
-		"C:\\Users\\musta\\Documents\\Unreal\\goBemPlusPlus\\goBEM\\Source\\goBEM.Target.cs",
-		"C:\\Users\\musta\\Documents\\Unreal\\goBemPlusPlus\\goBEM\\Source\\goBEMEditor.Target.cs"
+		"C:\\Users\\muzit\\Desktop\\Baris\\goBemPlusPlus\\goBEM\\Source\\goBEM\\goBEM.Build.cs",
+		"C:\\Users\\muzit\\Desktop\\Baris\\goBemPlusPlus\\goBEM\\Source\\goBEM.Target.cs",
+		"C:\\Users\\muzit\\Desktop\\Baris\\goBemPlusPlus\\goBEM\\Source\\goBEMEditor.Target.cs"
 	],
 	"EngineVersion": "4.26.0"
 }

@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "goBEM",
-			"Path": "C:\\Users\\musta\\Documents\\Unreal\\goBemPlusPlus\\goBEM\\Source\\goBEM.Target.cs",
+			"Path": "C:\\Users\\muzit\\Desktop\\Baris\\goBemPlusPlus\\goBEM\\Source\\goBEM.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "goBEMEditor",
-			"Path": "C:\\Users\\musta\\Documents\\Unreal\\goBemPlusPlus\\goBEM\\Source\\goBEMEditor.Target.cs",
+			"Path": "C:\\Users\\muzit\\Desktop\\Baris\\goBemPlusPlus\\goBEM\\Source\\goBEMEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
