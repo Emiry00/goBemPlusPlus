@@ -1,17 +1,17 @@
-C:\Projects\Unreal\goBemPlusPlus\goBEM\Intermediate\Build\Win64\UE4Editor\Development\goBEM\Definitions.goBEM.h
-C:\Projects\Unreal\goBemPlusPlus\goBEM\Source\goBEM\goBEMGameMode.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-C:\Projects\Unreal\goBemPlusPlus\goBEM\Intermediate\Build\Win64\UE4Editor\Inc\goBEM\goBEMGameMode.generated.h
-C:\Projects\Unreal\goBemPlusPlus\goBEM\Source\goBEM\goBEMCharacter.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\2D\Paper2D\Source\Paper2D\Classes\PaperCharacter.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\2D\Paper2D\Intermediate\Build\Win64\UE4Editor\Inc\Paper2D\PaperCharacter.generated.h
-C:\Projects\Unreal\goBemPlusPlus\goBEM\Intermediate\Build\Win64\UE4Editor\Inc\goBEM\goBEMCharacter.generated.h
+C:\Users\muzit\Desktop\Baris\goBemPlusPlus\goBEM\Intermediate\Build\Win64\UE4Editor\Development\goBEM\Definitions.goBEM.h
+C:\Users\muzit\Desktop\Baris\goBemPlusPlus\goBEM\Source\goBEM\goBEMGameMode.h
+C:\Program Files (x86)\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files (x86)\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files (x86)\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\muzit\Desktop\Baris\goBemPlusPlus\goBEM\Intermediate\Build\Win64\UE4Editor\Inc\goBEM\goBEMGameMode.generated.h
+C:\Users\muzit\Desktop\Baris\goBemPlusPlus\goBEM\Source\goBEM\goBEMCharacter.h
+C:\Program Files (x86)\Epic Games\UE_4.26\Engine\Plugins\2D\Paper2D\Source\Paper2D\Classes\PaperCharacter.h
+C:\Program Files (x86)\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files (x86)\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files (x86)\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files (x86)\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.26\Engine\Plugins\2D\Paper2D\Intermediate\Build\Win64\UE4Editor\Inc\Paper2D\PaperCharacter.generated.h
+C:\Users\muzit\Desktop\Baris\goBemPlusPlus\goBEM\Intermediate\Build\Win64\UE4Editor\Inc\goBEM\goBEMCharacter.generated.h

@@ -1,2 +1,2 @@
-C:\Projects\Unreal\goBemPlusPlus\goBEM\Intermediate\Build\Win64\UE4Editor\Development\goBEM\Definitions.goBEM.h
-C:\Projects\Unreal\goBemPlusPlus\goBEM\Source\goBEM\goBEM.h
+C:\Users\muzit\Desktop\Baris\goBemPlusPlus\goBEM\Intermediate\Build\Win64\UE4Editor\Development\goBEM\Definitions.goBEM.h
+C:\Users\muzit\Desktop\Baris\goBemPlusPlus\goBEM\Source\goBEM\goBEM.h

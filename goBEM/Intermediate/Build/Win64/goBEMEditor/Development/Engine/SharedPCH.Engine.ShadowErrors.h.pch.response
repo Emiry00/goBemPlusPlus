@@ -259,11 +259,11 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/I C:\Projects\Unreal\goBemPlusPlus\goBEM\Intermediate\Build\Win64\goBEMEditor\Development\Engine
-/Yc"C:\Projects\Unreal\goBemPlusPlus\goBEM\Intermediate\Build\Win64\goBEMEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Projects\Unreal\goBemPlusPlus\goBEM\Intermediate\Build\Win64\goBEMEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Projects\Unreal\goBemPlusPlus\goBEM\Intermediate\Build\Win64\goBEMEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.cpp"
-/Fo"C:\Projects\Unreal\goBemPlusPlus\goBEM\Intermediate\Build\Win64\goBEMEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+/I C:\Users\muzit\Desktop\Baris\goBemPlusPlus\goBEM\Intermediate\Build\Win64\goBEMEditor\Development\Engine
+/Yc"C:\Users\muzit\Desktop\Baris\goBemPlusPlus\goBEM\Intermediate\Build\Win64\goBEMEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\muzit\Desktop\Baris\goBemPlusPlus\goBEM\Intermediate\Build\Win64\goBEMEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\muzit\Desktop\Baris\goBemPlusPlus\goBEM\Intermediate\Build\Win64\goBEMEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.cpp"
+/Fo"C:\Users\muzit\Desktop\Baris\goBemPlusPlus\goBEM\Intermediate\Build\Win64\goBEMEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 /TP
 /GR-
 /W4
