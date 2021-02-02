@@ -40,6 +40,34 @@ protected:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Animations)
 	class UPaperFlipbook* IdleAnimation;
 
+	UPROPERTY(EditAnywhere, BluePrintReadWrite, Category = Animations)
+		class UPaperFlipbook* JumpAnimation;
+
+	UPROPERTY(EditAnywhere, BluePrintReadWrite, Category = Animations)
+		class UPaperFlipbook* JumpUpAnimation;
+
+	UPROPERTY(EditAnywhere, BluePrintReadWrite, Category = Animations)
+		class UPaperFlipbook* JumpMidAnimation;
+
+	UPROPERTY(EditAnywhere, BluePrintReadWrite, Category = Animations)
+		class UPaperFlipbook* JumpDownAnimation;
+
+
+	// Constants-------------------------------------------------------
+	const int IDLE = 10;
+	const int RUN = 11;
+	const int JUMP = 12;
+
+	// States
+	int STATE = IDLE;
+	bool bNewState = true;
+
+	int Facing = 1;
+
+	float InputThreshold = 0.4;
+	// ----------------------------------------------------------------
+
+
 	/** Called to choose the correct animation to play based on the character's movement state */
 	void UpdateAnimation();
 
@@ -60,6 +88,8 @@ protected:
 
 public:
 	AgoBEMCharacter();
+	void UpdateStates();
+	void UpdateAnimations();
 
 	/** Returns SideViewCameraComponent subobject **/
 	FORCEINLINE class UCameraComponent* GetSideViewCameraComponent() const { return SideViewCameraComponent; }

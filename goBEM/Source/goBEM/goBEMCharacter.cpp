@@ -106,9 +106,9 @@ void AgoBEMCharacter::Tick(float DeltaSeconds)
 void AgoBEMCharacter::SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent)
 {
 	// Note: the 'Jump' action and the 'MoveRight' axis are bound to actual keys/buttons/sticks in DefaultInput.ini (editable from Project Settings..Input)
-	PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &ACharacter::Jump);
-	PlayerInputComponent->BindAction("Jump", IE_Released, this, &ACharacter::StopJumping);
-	PlayerInputComponent->BindAxis("MoveRight", this, &AgoBEMCharacter::MoveRight);
+	PlayerInputComponent->BindAction("kJump", IE_Pressed, this, &ACharacter::Jump);
+	PlayerInputComponent->BindAction("kJump", IE_Released, this, &ACharacter::StopJumping);
+	PlayerInputComponent->BindAxis("kHor", this, &AgoBEMCharacter::MoveRight);
 
 	PlayerInputComponent->BindTouch(IE_Pressed, this, &AgoBEMCharacter::TouchStarted);
 	PlayerInputComponent->BindTouch(IE_Released, this, &AgoBEMCharacter::TouchStopped);
