@@ -269,5 +269,20 @@ void AcPlayer::OnBeginOverlap(UPrimitiveComponent* HitComp, AActor* OtherActor, 
 			Keys += 1;
 			OtherActor->Destroy();
 		}
+		// If the player collides with a key
+		else if (OtherActor->ActorHasTag("Chest"))
+		{
+			UE_LOG(LogTemp, Warning, TEXT("COLLIDED WITH CHEST"));
+			if (Keys > 0)
+			{
+				OtherActor->Destroy();
+				Keys -= 1;
+
+				FVector SpawnPosition = GetActorLocation();
+				FRotator SpawnRotation = GetActorRotation();
+
+				GetWorld()->SpawnActor(Coin, &SpawnPosition, &SpawnRotation);
+			}
+		}
 	}
 }

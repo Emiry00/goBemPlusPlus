@@ -74,6 +74,9 @@ public:
 	UPROPERTY(EditAnywhere, Category = "UI HUD")
 		TSubclassOf<UUserWidget> Player_Game_Widget_Class;
 	UUserWidget* Player_Game_Widget;
+
+	UPROPERTY(EditAnywhere)
+		TSubclassOf<APawn> Coin;
 	// ----------------------------------------------------------------
 
 	// Constants-------------------------------------------------------
