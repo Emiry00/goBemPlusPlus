@@ -10,6 +10,7 @@
 #include "GameFramework/CharacterMovementComponent.h"
 #include "GameFramework/Controller.h"
 #include "Camera/CameraComponent.h"
+#include "Kismet/GameplayStatics.h"
 
 FName AcPlayer::SpriteComponentName(TEXT("Sprite0"));
 
@@ -275,14 +276,37 @@ void AcPlayer::OnBeginOverlap(UPrimitiveComponent* HitComp, AActor* OtherActor, 
 			UE_LOG(LogTemp, Warning, TEXT("COLLIDED WITH CHEST"));
 			if (Keys > 0)
 			{
-				OtherActor->Destroy();
 				Keys -= 1;
+				Coins += 5;
 
-				FVector SpawnPosition = GetActorLocation();
+				/*FVector SpawnPosition = GetActorLocation();
 				FRotator SpawnRotation = GetActorRotation();
 
-				GetWorld()->SpawnActor(Coin, &SpawnPosition, &SpawnRotation);
+				GetWorld()->SpawnActor(Coin, &SpawnPosition, &SpawnRotation);*/
+
+				OtherActor->Destroy();
 			}
 		}
+		// If the player collides with the head of an enemy
+		else if (OtherComp->ComponentHasTag("HeadBox"))
+		{
+			UE_LOG(LogTemp, Warning, TEXT("COLLIDED WITH ENEMYS HEAD"));
+			OtherActor->Destroy();
+		}
+		// If the player collides with the body of an enemy
+		else if (OtherComp->ComponentHasTag("BodyBox"))
+		{
+			UE_LOG(LogTemp, Warning, TEXT("COLLIDED WITH ENEMYS BODY"));
+
+			bDead = true;
+			FTimerHandle UnusedHandle;
+			GetWorldTimerManager().SetTimer(UnusedHandle, this, &AcPlayer::RestartGame, .2f, false);
+		}
 	}
+}
+
+void AcPlayer::RestartGame()
+{
+	// Opens a Level inside this
+	UGameplayStatics::OpenLevel(this, FName(*GetWorld()->GetName()), false);
 }
