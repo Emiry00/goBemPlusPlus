@@ -56,11 +56,15 @@ public:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Animations)
 		class UPaperFlipbook* DesiredAnimation;
 
+	// Character Properties------------------------------------------------
 	UPROPERTY(EditAnywhere, BluePrintReadWrite, Category = Animations)
 		float JumpMidVelocity = 120.0f;
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly)
 		int Coins;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly)
+		int Keys;
 
 	UFUNCTION()
 		void OnBeginOverlap(class UPrimitiveComponent* HitComp,
@@ -68,8 +72,8 @@ public:
 			int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult);
 
 	UPROPERTY(EditAnywhere, Category = "UI HUD")
-		TSubclassOf<UUserWidget> Player_Coin_Widget_Class;
-	UUserWidget* Player_Coin_Widget;
+		TSubclassOf<UUserWidget> Player_Game_Widget_Class;
+	UUserWidget* Player_Game_Widget;
 	// ----------------------------------------------------------------
 
 	// Constants-------------------------------------------------------

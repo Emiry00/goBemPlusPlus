@@ -72,6 +72,8 @@ AcPlayer::AcPlayer(const FObjectInitializer& ObjectInitializer)
 	bUseControllerRotationRoll = false;
 
 	bDead = false;
+	Coins = 0;
+	Keys = 0;
 }
 
 
@@ -94,10 +96,10 @@ void AcPlayer::BeginPlay()
 	Super::BeginPlay();
 	GetCapsuleComponent()->OnComponentBeginOverlap.AddDynamic(this, &AcPlayer::OnBeginOverlap);
 
-	if (Player_Coin_Widget != nullptr)
+	if (Player_Game_Widget_Class != nullptr)
 	{
-		Player_Coin_Widget = CreateWidget(GetWorld(), Player_Coin_Widget_Class);
-		Player_Coin_Widget->AddToViewport();
+		Player_Game_Widget = CreateWidget(GetWorld(), Player_Game_Widget_Class);
+		Player_Game_Widget->AddToViewport();
 
 	}
 }
@@ -248,15 +250,23 @@ void AcPlayer::UpdateAnimations()
 	}
 }
 
-
+// If the player collides with an object
 void AcPlayer::OnBeginOverlap(UPrimitiveComponent* HitComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult)
 {
 	if (!bDead)
 	{
+		// If the player collides with a coin
 		if (OtherActor->ActorHasTag("Coin"))
 		{
-			UE_LOG(LogTemp, Warning, TEXT("COLLIDED"));
+			UE_LOG(LogTemp, Warning, TEXT("COLLIDED WITH COIN"));
 			Coins += 1;
+			OtherActor->Destroy();
+		}
+		// If the player collides with a key
+		else if (OtherActor->ActorHasTag("Key"))
+		{
+			UE_LOG(LogTemp, Warning, TEXT("COLLIDED WITH KEY"));
+			Keys += 1;
 			OtherActor->Destroy();
 		}
 	}
