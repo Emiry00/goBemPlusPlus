@@ -99,6 +99,9 @@ public:
 	// ----------------------------------------------------------------
 
 	bool bDead;
+	bool bTime;
+
+	float floatTime;
 
 protected:
 	// Called when the game starts or when spawned
