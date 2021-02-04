@@ -9,10 +9,6 @@
 
 AEnemy_Controller::AEnemy_Controller(FObjectInitializer const& object_initializer)
 {
-	static ConstructorHelpers::FObjectFinder<UBehaviorTree> obj(TEXT("BehaviorTree'/Game/Enemy/Enemy_BT.Enemy_BT'"));
-	if (obj.Succeeded()) {
-		btree = obj.Object;
-	}
 	behavior_tree_component = object_initializer.CreateDefaultSubobject<UBehaviorTreeComponent>(this, TEXT("BehaviorComponent"));
 	blackboard = object_initializer.CreateDefaultSubobject<UBlackboardComponent>(this, TEXT("BlackboardComponent"));
 }
@@ -29,7 +25,7 @@ void AEnemy_Controller::OnPossess(APawn* const pawn)
 	Super::OnPossess(pawn);
 	if (blackboard)
 	{
-		blackboard->InitializeBlackboard(*btree->BlackboardAsset);
+		//blackboard->InitializeBlackboard(*btree->BlackboardAsset);
 	}
 }
 
