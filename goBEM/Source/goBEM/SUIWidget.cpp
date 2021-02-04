@@ -49,7 +49,7 @@ void SUIWidget::Construct(const FArguments& InArgs)
 						.Justification(ETextJustify::Center)
 					]
 				]
-				// Start button
+				// Quit button
 				+ SVerticalBox::Slot()
 				.Padding(ButtonPadding)
 				[
