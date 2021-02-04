@@ -72,6 +72,7 @@ FReply SUIWidget::OnStartClicked() const
 {
 	if (OwningHUD.IsValid())
 	{
+		// Call Remove Menu Function from UIHUD.cpp
 		OwningHUD->RemoveMenu();
 	}
 	return FReply::Handled();
@@ -83,6 +84,7 @@ FReply SUIWidget::OnQuitClicked() const
 	{
 		if (APlayerController* PC = OwningHUD->PlayerOwner)
 		{
+			// Call quit command to close the game
 			PC->ConsoleCommand("quit");
 		}
 	}
