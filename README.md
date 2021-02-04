@@ -42,8 +42,8 @@ Die wesentlichen Ordner für die Projektdateien sind folgende:
 ```
 goBEM
 └───Content
-    └───Assets
-    └───Blueprints
+│   └───Assets
+│   └───Blueprints
 └───Source
     └───goBEM
 ```
