@@ -307,6 +307,15 @@ void AcPlayer::OnBeginOverlap(UPrimitiveComponent* HitComp, AActor* OtherActor, 
 			FTimerHandle UnusedHandle;
 			GetWorldTimerManager().SetTimer(UnusedHandle, this, &AcPlayer::RestartGame, .2f, false);
 		}
+		// If the player collides with the goal
+		else if (OtherActor->ActorHasTag("Goal"))
+		{
+			UE_LOG(LogTemp, Warning, TEXT("COLLIDED WITH GOAL"));
+
+			bDead = true;
+			FTimerHandle UnusedHandle;
+			GetWorldTimerManager().SetTimer(UnusedHandle, this, &AcPlayer::RestartGame, .5f, false);
+		}
 	}
 }
 
