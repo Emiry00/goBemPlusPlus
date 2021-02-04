@@ -288,14 +288,15 @@ void AcPlayer::OnBeginOverlap(UPrimitiveComponent* HitComp, AActor* OtherActor, 
 				FRotator SpawnRotation = GetActorRotation();
 
 				GetWorld()->SpawnActor(Coin, &SpawnPosition, &SpawnRotation);*/
-
 				OtherActor->Destroy();
 			}
+			LaunchCharacter({ 0.0f, 0.0f, 1300.0f }, false, false);
 		}
 		// If the player collides with the head of an enemy
 		else if (OtherComp->ComponentHasTag("HeadBox"))
 		{
 			UE_LOG(LogTemp, Warning, TEXT("COLLIDED WITH ENEMYS HEAD"));
+			LaunchCharacter({ 0.0f, 0.0f, 1300.0f }, false, false);
 			OtherActor->Destroy();
 		}
 		// If the player collides with the body of an enemy
@@ -305,7 +306,7 @@ void AcPlayer::OnBeginOverlap(UPrimitiveComponent* HitComp, AActor* OtherActor, 
 
 			bDead = true;
 			FTimerHandle UnusedHandle;
-			GetWorldTimerManager().SetTimer(UnusedHandle, this, &AcPlayer::RestartGame, .2f, false);
+			GetWorldTimerManager().SetTimer(UnusedHandle, this, &AcPlayer::RestartGame, 1.5f, false);
 		}
 		// If the player collides with the goal
 		else if (OtherActor->ActorHasTag("Goal"))
