@@ -15,3 +15,12 @@ C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\2D\Paper2D\Intermediate\Build\Win64\UE4Editor\Inc\Paper2D\PaperCharacter.generated.h
 C:\Projects\Unreal\goBemPlusPlus\goBEM\Intermediate\Build\Win64\UE4Editor\Inc\goBEM\goBEMCharacter.generated.h
+C:\Projects\Unreal\goBemPlusPlus\goBEM\Source\goBEM\UIHUD.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+C:\Projects\Unreal\goBemPlusPlus\goBEM\Intermediate\Build\Win64\UE4Editor\Inc\goBEM\UIHUD.generated.h
+C:\Projects\Unreal\goBemPlusPlus\goBEM\Source\goBEM\UIController.h
+C:\Projects\Unreal\goBemPlusPlus\goBEM\Intermediate\Build\Win64\UE4Editor\Inc\goBEM\UIController.generated.h

@@ -65,6 +65,9 @@ public:
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly)
 		int Keys;
+	
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly)
+		int Time;
 
 	UFUNCTION()
 		void OnBeginOverlap(class UPrimitiveComponent* HitComp,

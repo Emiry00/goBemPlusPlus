@@ -75,6 +75,7 @@ AcPlayer::AcPlayer(const FObjectInitializer& ObjectInitializer)
 	bDead = false;
 	Coins = 0;
 	Keys = 0;
+	Time = 0;
 }
 
 
@@ -109,6 +110,10 @@ void AcPlayer::BeginPlay()
 void AcPlayer::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
+
+	// passed Time
+	Time += DeltaTime;
+
 	UpdateStates();
 	UpdateAnimations();
 

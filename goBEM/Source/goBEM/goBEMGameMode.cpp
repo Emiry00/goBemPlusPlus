@@ -2,6 +2,8 @@
 
 #include "goBEMGameMode.h"
 #include "goBEMCharacter.h"
+#include "UIHUD.h"
+#include "UIController.h"
 
 AgoBEMGameMode::AgoBEMGameMode()
 {
